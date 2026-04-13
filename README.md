@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .hiv one-word domains from Unique 
 
 **Public extract:** 9,938 rows · **Live catalog:** 9,938 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/hiv`  
 **Best for:** founders, investors, studios
 
@@ -76,9 +76,9 @@ print(df.head())
 | yellow.hiv     | premium   | —         | —             | 116            | 99     | 6      | —                |
 | good.hiv       | available | $184.99   | $184.99       | 82             | 55     | 4      | name.com         |
 | beat.hiv       | premium   | —         | —             | 112            | 99     | 4      | —                |
-| alpha.hiv      | available | $184.99   | $184.99       | 90             | 54     | 5      | name.com         |
-| support.hiv    | premium   | —         | —             | 112            | 99     | 7      | —                |
 | zero.hiv       | available | $184.99   | $184.99       | 112            | 53     | 4      | name.com         |
+| support.hiv    | premium   | —         | —             | 112            | 99     | 7      | —                |
+| alpha.hiv      | available | $184.99   | $184.99       | 90             | 53     | 5      | name.com         |
 | green.hiv      | premium   | —         | —             | 108            | 99     | 5      | —                |
 | fast.hiv       | available | $184.99   | $184.99       | 82             | 53     | 4      | name.com         |
 | blue.hiv       | premium   | —         | —             | 92             | 99     | 4      | —                |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HIV One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HIV One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
