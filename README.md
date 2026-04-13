@@ -80,9 +80,9 @@ print(df.head())
 | support.hiv    | premium   | —         | —             | 112            | 99     | 7      | —                |
 | alpha.hiv      | available | $184.99   | $184.99       | 90             | 53     | 5      | name.com         |
 | green.hiv      | premium   | —         | —             | 108            | 99     | 5      | —                |
-| fast.hiv       | available | $184.99   | $184.99       | 82             | 53     | 4      | name.com         |
-| blue.hiv       | premium   | —         | —             | 92             | 99     | 4      | —                |
 | true.hiv       | available | $184.99   | $184.99       | 86             | 52     | 4      | name.com         |
+| blue.hiv       | premium   | —         | —             | 92             | 99     | 4      | —                |
+| fast.hiv       | available | $184.99   | $184.99       | 82             | 52     | 4      | name.com         |
 | love.hiv       | premium   | —         | —             | 86             | 99     | 4      | —                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
