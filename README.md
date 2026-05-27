@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .hiv one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,894 domains · **Median ask:** $201.94 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/hiv`  
 **Best for:** founders, investors, studios
 
@@ -75,14 +75,14 @@ print(df.head())
 | justin.hiv     | available | $184.99   | —             | 58             | 38     | 7      | name.com  |
 | Trex.hiv       | premium   | —         | —             | 80             | 24     | 5      | —         |
 | aliens.hiv     | available | $184.99   | —             | 56             | 35     | 6      | name.com  |
-| Places.hiv     | premium   | —         | —             | 74             | 22     | 6      | —         |
+| Places.hiv     | premium   | —         | —             | 74             | 23     | 6      | —         |
 | trends.hiv     | available | $184.99   | —             | 60             | 32     | 6      | name.com  |
 | Sundays.hiv    | premium   | —         | —             | 61             | 17     | 7      | —         |
 | letsgo.hiv     | available | $184.99   | —             | 57             | 31     | 7      | name.com  |
 | Apples.hiv     | premium   | —         | —             | 90             | 16     | 6      | —         |
 | solutions.hiv  | available | $184.99   | —             | 56             | 31     | 9      | name.com  |
 | Christians.hiv | premium   | —         | —             | 62             | 15     | 10     | —         |
-| heroes.hiv     | available | $184.99   | —             | 68             | 29     | 6      | name.com  |
+| gods.hiv       | available | $184.99   | —             | 72             | 29     | 4      | name.com  |
 | Ispy.hiv       | premium   | —         | —             | 76             | 14     | 5      | —         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HIV One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HIV One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
