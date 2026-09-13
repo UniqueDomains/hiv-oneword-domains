@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .hiv one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 23,777 domains · **Median ask:** $188.95 · **High-demand under $2,500:** 32
 
-**Last updated:** 2026-09-12
+**Last updated:** 2026-09-13
 **Canonical page:** `https://unique.domains/domains/tld/hiv`
 **Best for:** founders, investors, studios
 
@@ -69,7 +69,7 @@ print(df.head())
 | axe.hiv | available | $184.99   | —             | medium         | low    | 3      | name.com  |
 | azo.hiv | available | $184.99   | $184.99       | low            | low    | 3      | name.com  |
 | bae.hiv | available | $184.99   | —             | high           | low    | 3      | name.com  |
-| BBC.hiv | available | $184.99   | —             | high           | medium | 3      | name.com  |
+| BBC.hiv | available | $195.99   | $195.99       | medium         | medium | 3      | namesilo  |
 | cap.hiv | available | $184.99   | —             | high           | low    | 3      | name.com  |
 | des.hiv | available | $184.99   | —             | high           | low    | 3      | name.com  |
 | ear.hiv | available | $184.99   | —             | high           | low    | 3      | name.com  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HIV One-Word Domains*. Version 2026-09-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HIV One-Word Domains*. Version 2026-09-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
