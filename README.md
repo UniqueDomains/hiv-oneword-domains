@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .hiv one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 25,060 domains · **Median ask:** $189.26 · **High-demand under $2,500:** 32
 
-**Last updated:** 2026-09-14
+**Last updated:** 2026-09-15
 **Canonical page:** `https://unique.domains/domains/tld/hiv`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain  | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| air.hiv | available | $184.99   | —             | high           | medium | 3      | name.com  |
-| Ava.hiv | available | $184.99   | —             | high           | medium | 3      | name.com  |
-| axe.hiv | available | $184.99   | —             | medium         | low    | 3      | name.com  |
-| azo.hiv | available | $184.99   | $184.99       | low            | low    | 3      | name.com  |
-| bae.hiv | available | $184.99   | —             | high           | low    | 3      | name.com  |
-| BBC.hiv | available | $195.99   | $195.99       | medium         | medium | 3      | namesilo  |
-| cap.hiv | available | $184.99   | —             | high           | low    | 3      | name.com  |
-| des.hiv | available | $184.99   | —             | high           | low    | 3      | name.com  |
-| ear.hiv | available | $184.99   | —             | high           | low    | 3      | name.com  |
-| fun.hiv | available | $184.99   | —             | high           | medium | 3      | name.com  |
-| hit.hiv | available | $184.99   | —             | high           | low    | 3      | name.com  |
-| hum.hiv | available | $184.99   | —             | high           | low    | 3      | name.com  |
-| ive.hiv | available | $184.99   | —             | medium         | low    | 3      | name.com  |
-| lip.hiv | available | $184.99   | —             | high           | low    | 3      | name.com  |
-| log.hiv | available | $184.99   | —             | high           | low    | 3      | name.com  |
-| moi.hiv | available | $184.99   | —             | high           | low    | 3      | name.com  |
-| odd.hiv | available | $184.99   | $184.99       | high           | low    | 3      | name.com  |
-| pen.hiv | available | $184.99   | —             | medium         | low    | 3      | name.com  |
-| rag.hiv | available | $184.99   | $184.99       | medium         | low    | 3      | name.com  |
-| RGB.hiv | available | $184.99   | —             | medium         | low    | 3      | name.com  |
+| domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| just.hiv | available | $184.99   | —             | high           | medium | 4      | name.com  |
+| yes.hiv  | available | $184.99   | —             | high           | medium | 3      | name.com  |
+| air.hiv  | available | $184.99   | —             | high           | medium | 3      | name.com  |
+| Ava.hiv  | available | $184.99   | —             | high           | medium | 3      | name.com  |
+| axe.hiv  | available | $184.99   | —             | medium         | low    | 3      | name.com  |
+| azo.hiv  | available | $184.99   | $184.99       | low            | low    | 3      | name.com  |
+| bae.hiv  | available | $184.99   | —             | high           | low    | 3      | name.com  |
+| BBC.hiv  | available | $195.99   | $195.99       | medium         | medium | 3      | namesilo  |
+| cap.hiv  | available | $184.99   | —             | high           | low    | 3      | name.com  |
+| des.hiv  | available | $184.99   | —             | high           | low    | 3      | name.com  |
+| ear.hiv  | available | $184.99   | —             | high           | low    | 3      | name.com  |
+| fun.hiv  | available | $184.99   | —             | high           | medium | 3      | name.com  |
+| hit.hiv  | available | $184.99   | —             | high           | low    | 3      | name.com  |
+| hum.hiv  | available | $184.99   | —             | high           | low    | 3      | name.com  |
+| ive.hiv  | available | $184.99   | —             | medium         | low    | 3      | name.com  |
+| lip.hiv  | available | $184.99   | —             | high           | low    | 3      | name.com  |
+| log.hiv  | available | $184.99   | —             | high           | low    | 3      | name.com  |
+| moi.hiv  | available | $184.99   | —             | high           | low    | 3      | name.com  |
+| odd.hiv  | available | $184.99   | $184.99       | high           | low    | 3      | name.com  |
+| pen.hiv  | available | $184.99   | —             | medium         | low    | 3      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .HIV One-Word Domains*. Version 2026-09-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .HIV One-Word Domains*. Version 2026-09-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
