@@ -1,7 +1,7 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 1cfb62d6-a77c-46cb-804c-8e7e72b06c50,ineptitude.hiv,available,195.99,195.99,medium,low,10,namesilo,,,21/09/2026 10:06
 42a84cbc-a057-4124-9352-d6e9030586f5,academia.hiv,available,,,high,low,8,,,,23/09/2026 20:23
-b4f29de7-34ef-4f82-8965-b38fb3ae8fce,incessant.hiv,available,184.99,184.99,high,low,9,name.com,,,11/08/2026 23:04
+b4f29de7-34ef-4f82-8965-b38fb3ae8fce,incessant.hiv,available,184.99,184.99,medium,low,9,name.com,,,11/08/2026 23:04
 454952b9-dd69-4003-9318-033bf7c45184,spheres.hiv,available,195.99,195.99,medium,low,7,namesilo,,,20/09/2026 04:06
 38985040-65dc-44d7-b440-700a35fe16c7,taciturn.hiv,available,195.99,195.99,medium,low,8,namesilo,,,11/09/2026 06:58
 f8b14085-556b-4ecf-8e27-8ca402793384,jewelry.hiv,available,195.99,195.99,high,low,7,namesilo,,,27/09/2026 06:59
@@ -10,6 +10,7 @@ f8b14085-556b-4ecf-8e27-8ca402793384,jewelry.hiv,available,195.99,195.99,high,lo
 e79f8f66-a92d-4c28-ab0a-35e3f113d90a,frizzly.hiv,available,184.99,184.99,medium,low,7,name.com,,,18/08/2026 16:06
 bcff396d-6bb9-4f21-a58d-24b6378ec42a,photograph.hiv,available,195.99,195.99,high,low,10,namesilo,,,26/09/2026 00:03
 12e6afe5-c5d4-4f32-bf25-9ebce0086465,andean.hiv,available,184.99,184.99,high,low,6,name.com,,,
+f1c17f4d-83a7-48f9-aa25-e30394231097,buren.hiv,available,195.99,195.99,medium,low,5,namesilo,,,27/09/2026 20:26
 aebc9012-0eee-4e0a-85ab-0468347b731a,often.hiv,available,184.99,,high,low,5,name.com,,,
 af8bfeaa-870d-491a-bc78-ea176a9b684a,basileus.hiv,available,195.99,195.99,medium,low,8,namesilo,,,22/09/2026 10:47
 ddb1b4f5-38c1-4d6b-b3f5-79b5b365af07,becloud.hiv,available,195.99,195.99,medium,low,7,namesilo,,,03/09/2026 23:53
@@ -45,6 +46,7 @@ b1a03aa0-5c50-4e83-8e30-39b0362304f3,entangled.hiv,available,184.99,184.99,mediu
 5249f4cb-2392-465c-b508-0460e142041c,results.hiv,available,184.99,184.99,high,low,7,name.com,,,
 3d01015a-50c2-4a14-85c4-cad86a09597c,younger.hiv,available,195.99,195.99,high,low,7,namesilo,,,25/09/2026 12:10
 920048ae-1402-4849-9a99-9c02e1b107a2,deserving.hiv,available,184.99,184.99,high,low,9,name.com,,,14/08/2026 03:29
+57dabf02-2043-4027-a46b-b50fffae461d,carolina.hiv,available,184.9,184.9,high,low,8,spaceship,,,28/09/2026 01:35
 a09cc29b-ac4c-4cdd-a149-dc97cf238d41,atropos.hiv,available,195.99,195.99,medium,low,7,namesilo,,,21/09/2026 01:01
 05998970-d400-414a-9708-95ee2c357c6d,font.hiv,available,195.99,195.99,high,low,4,namesilo,,,22/09/2026 03:31
 8386760a-89b2-464f-8673-23bb12624fa4,unwell.hiv,available,184.99,184.99,high,low,6,name.com,,,
@@ -56,7 +58,7 @@ b997e366-af66-4a6e-97ff-424777754c4d,reads.hiv,available,195.99,195.99,medium,lo
 14e45ea0-3e37-463e-81b3-95b8c92bc90b,botticelli.hiv,available,195.99,195.99,high,low,10,namesilo,,,18/09/2026 05:31
 abdbf87d-2f21-4d8e-bdf7-490a4ee4b09d,downwards.hiv,available,184.99,184.99,medium,low,9,name.com,,,14/08/2026 17:16
 3e298678-cb1f-44ee-8718-775d5d9f7036,sasquatch.hiv,available,195.99,195.99,high,low,9,namesilo,,,23/09/2026 15:07
-efd26c01-8c35-4ae9-98df-dfd255c63653,tung.hiv,available,195.99,195.99,high,low,4,namesilo,,,18/09/2026 05:36
+efd26c01-8c35-4ae9-98df-dfd255c63653,tung.hiv,available,195.99,195.99,medium,low,4,namesilo,,,18/09/2026 05:36
 b296cc73-d774-4e6f-a757-0513e9917a66,fool.hiv,available,184.99,184.99,medium,low,4,name.com,,,12/08/2026 15:15
 b735e438-141c-448e-b456-b5406fdbc487,predacious.hiv,available,195.99,195.99,high,medium,10,namesilo,,,09/09/2026 01:21
 88485cdd-9b1c-4aae-937b-e6c0686b4cb2,dipylon.hiv,available,184.99,184.99,medium,low,7,name.com,,,14/08/2026 08:43
@@ -64,6 +66,7 @@ efbcf98c-1392-474c-ae24-f342bcae35ae,kanaf.hiv,available,195.99,195.99,medium,lo
 064a96ab-498e-4090-88a4-f7f84b12f9b4,swelled.hiv,available,195.99,195.99,medium,low,7,namesilo,,,11/09/2026 05:38
 e00aa267-6e03-42e7-9436-e57fabb17815,pour.hiv,available,184.99,,high,low,4,name.com,,,
 7b98d9c3-fd9a-4f46-b965-008e89785c6e,aimlessly.hiv,available,,,medium,low,9,,,,13/09/2026 18:28
+a1cf4ef1-8907-4765-8a8a-a7955a87f15d,knights.hiv,available,184.9,184.9,high,low,7,spaceship,,,27/09/2026 18:23
 536ac3cc-6927-439b-84ae-2d4b779eee2a,charlie.hiv,available,,,high,medium,7,,,,25/09/2026 18:14
 f4fa1054-320a-4363-a947-b1e1f4896bb7,viscid.hiv,available,184.99,184.99,medium,low,6,name.com,,,20/08/2026 15:23
 c382b002-3cad-459a-9666-f1e28630d432,agents.hiv,available,195.99,195.99,high,medium,6,namesilo,,,24/09/2026 16:49
@@ -76,13 +79,14 @@ bcab49e5-5039-4da4-8d42-93939e1b6bb4,alizarine.hiv,available,195.99,195.99,mediu
 5798ad86-b061-4854-97d5-8ee892b414ad,armed.hiv,available,195.99,195.99,high,low,5,namesilo,,,22/09/2026 07:55
 fa6c8fff-b8e4-467a-abfd-cd0a613d6bd3,prim.hiv,available,184.99,184.99,high,low,4,name.com,,,13/08/2026 15:46
 90bc5f47-b261-4bab-9d0e-cc0bc10e25f2,fatefully.hiv,available,,,medium,low,9,,,,14/09/2026 17:53
-1b5877cd-87eb-427d-b1ae-2b367e48a8b7,fodder.hiv,available,195.99,195.99,high,low,6,namesilo,,,24/09/2026 12:05
+1b5877cd-87eb-427d-b1ae-2b367e48a8b7,fodder.hiv,available,195.99,195.99,medium,low,6,namesilo,,,24/09/2026 12:05
 dadb2778-24c1-4b10-b070-82657846cd57,alias.hiv,available,184.99,,high,low,5,name.com,,,
 4c2e6629-f589-4a90-b7dc-c9a2ddb403cf,permitted.hiv,available,184.99,,high,low,9,name.com,,,
 fc035317-df7c-4639-bec6-560fde4bb0e2,brutality.hiv,available,195.99,195.99,medium,low,9,namesilo,,,22/09/2026 04:26
 1f192345-8f2c-4789-8919-774355cd7ef3,billhook.hiv,available,184.99,184.99,medium,low,8,name.com,,,23/09/2026 16:21
 93bc5216-a374-402a-a0ea-34be0c585ffc,peed.hiv,available,195.99,195.99,medium,low,4,namesilo,,,18/09/2026 08:17
 a83e989f-dbb1-4741-81c2-9c4d46f73f1e,agenda.hiv,available,195.99,195.99,high,low,6,namesilo,,,17/09/2026 17:02
+774f5c9a-f4c1-422c-a125-f04bb7c104f0,collapse.hiv,available,195.99,195.99,high,low,8,namesilo,,,27/09/2026 12:20
 f0021d23-1f55-41ff-8f6d-4d444bc2a688,dismissed.hiv,available,195.99,195.99,medium,low,9,namesilo,,,24/09/2026 11:01
 badf7f40-80c4-4cd3-9965-9ca46de664dd,antiviral.hiv,available,,,high,low,9,,,,
 cbf8ce60-8262-4348-a2f4-898cc1043489,trusted.hiv,available,195.99,195.99,high,low,7,namesilo,,,11/09/2026 20:44
@@ -90,22 +94,25 @@ fa1146ce-c0eb-4ba9-a23f-366c901d9796,recorded.hiv,available,184.99,184.99,high,l
 378256c8-1073-46a4-b926-88a0c4737432,master.hiv,available,195.99,195.99,high,low,6,namesilo,,,25/09/2026 17:15
 f205f3ec-6c84-4473-b412-9e329d9ec975,pochard.hiv,available,195.99,195.99,medium,low,7,namesilo,,,21/09/2026 10:48
 8c4462e8-852d-4ea6-8ac1-ead003889252,diseased.hiv,available,184.99,184.99,medium,low,8,name.com,,,14/08/2026 10:08
+296da390-d601-4ec6-96bb-85043731601d,maureen.hiv,available,184.9,184.9,medium,low,7,spaceship,,,27/09/2026 19:11
 40979381-d0eb-482c-8ae2-720723238464,advancing.hiv,available,184.99,184.99,high,low,9,name.com,,,21/09/2026 20:51
 ef496325-1930-4a23-9203-eea1fdae7408,calcium.hiv,available,195.99,195.99,high,low,7,namesilo,,,20/09/2026 22:32
 f8287bd5-277d-477a-9674-b66acd0c1828,futile.hiv,available,195.99,195.99,medium,low,6,namesilo,,,22/09/2026 23:49
 73c803cb-bd0c-4a3c-a76c-19cfedf27651,mercury.hiv,available,,,high,medium,7,,,,09/09/2026 08:45
+c541b932-7960-4cb4-9c31-a44e64cf73fd,robinson.hiv,available,184.9,184.9,high,low,8,spaceship,,,27/09/2026 13:17
 82e3f420-884d-40df-93c3-acd1ab84e287,bedamn.hiv,available,184.99,184.99,medium,low,6,name.com,,,13/08/2026 16:21
 f53a4f7a-52b1-420b-aa64-d4ca68d5c9c4,optimum.hiv,available,195.99,195.99,high,low,7,namesilo,,,04/09/2026 16:59
 f2223e4a-fd79-4623-95d7-d37f6e061062,gallican.hiv,available,184.99,184.99,medium,low,8,name.com,,,18/08/2026 19:40
 198b1f58-bdf3-4855-9f8d-e52494019e83,activated.hiv,available,195.99,195.99,high,low,9,namesilo,,,21/09/2026 16:32
 4ff03240-f0cd-464f-b8e4-ead6b8102dc6,sheepdog.hiv,available,184.99,,high,low,9,name.com,,,
-290c89e1-4c25-45fe-8957-ce98f1ce7655,mosquito.hiv,available,184.99,,high,low,8,name.com,,,
+290c89e1-4c25-45fe-8957-ce98f1ce7655,mosquito.hiv,available,184.99,,medium,low,8,name.com,,,
 f85d4d5d-cef4-4695-9e36-0b668410c1de,voiceless.hiv,available,184.99,184.99,medium,low,9,name.com,,,05/08/2026 23:23
 b703df14-ecbe-4524-b939-f32146b0a39b,aunt.hiv,available,184.99,,high,low,4,name.com,,,
 21455102-54b8-444e-85db-e7f7a280b187,spirit.hiv,available,184.99,,high,low,6,name.com,,,
 d5ba7de2-4393-4bd5-a18c-3d61bf30a626,wayne.hiv,available,195.99,195.99,high,low,5,namesilo,,,19/09/2026 13:47
-b95ba7b9-3701-47c4-8dbb-5803595fde6c,aqualung.hiv,available,195.99,195.99,high,low,8,namesilo,,,19/09/2026 22:54
-8f1aff62-949f-429d-b6cb-daf09e6a5c2b,thirties.hiv,available,195.99,195.99,high,low,8,namesilo,,,16/09/2026 12:05
+b95ba7b9-3701-47c4-8dbb-5803595fde6c,aqualung.hiv,available,195.99,195.99,medium,low,8,namesilo,,,19/09/2026 22:54
+8f1aff62-949f-429d-b6cb-daf09e6a5c2b,thirties.hiv,available,195.99,195.99,medium,low,8,namesilo,,,16/09/2026 12:05
+ec49289e-e56a-42dd-a4b9-ef7e50952e2e,discounter.hiv,available,184.9,184.9,high,low,10,spaceship,,,28/09/2026 02:50
 dd7fa636-3654-4d60-b84c-d4a600130223,addax.hiv,available,195.99,195.99,medium,low,5,namesilo,,,17/09/2026 06:40
 9f20d822-c67a-4276-985c-36b69dcb5a54,miguel.hiv,available,195.99,195.99,high,low,6,namesilo,,,25/09/2026 14:22
 a357df65-d7ed-4d14-817e-5d7cb72b7e1b,throng.hiv,available,195.99,195.99,high,low,6,namesilo,,,24/09/2026 17:08
@@ -117,7 +124,7 @@ a32ffc8a-c0d0-4738-8c44-e7c44b8c699f,ambrose.hiv,available,184.99,184.99,high,lo
 5bdfc4fc-54d6-41c1-a335-4b6dd13d1338,wounding.hiv,available,184.99,184.99,medium,low,8,name.com,,,10/09/2026 17:53
 9fceeaa5-6bd2-4fd6-8c25-f73a9a368da8,towards.hiv,available,184.99,,high,low,7,name.com,,,
 1cb55a48-30f4-49cd-870a-f8772b7119f1,canty.hiv,available,184.99,184.99,medium,low,5,name.com,,,11/08/2026 17:46
-ab9be9f3-d483-487a-bd5a-44afa40832e5,episcopal.hiv,available,184.99,184.99,high,low,9,name.com,,,17/08/2026 11:09
+ab9be9f3-d483-487a-bd5a-44afa40832e5,episcopal.hiv,available,184.99,184.99,medium,low,9,name.com,,,17/08/2026 11:09
 7a805acc-8f09-4fce-bfb9-1dea067af3a0,hyaline.hiv,available,184.99,184.99,medium,low,7,name.com,,,21/08/2026 16:06
 847fdf2d-348e-4a35-b14c-231b0f996cac,abilene.hiv,available,195.99,195.99,high,low,7,namesilo,,,16/09/2026 15:54
 3c6a3ae2-4c2f-4aa6-b273-01f17df2006d,nippy.hiv,available,195.99,195.99,high,low,5,namesilo,,,03/09/2026 17:42
@@ -140,21 +147,21 @@ f2f63146-6778-4583-814b-a24e0534a4f5,realistic.hiv,available,195.99,195.99,high,
 1c148051-29dc-4d5e-8ffe-ff62b078df85,profitless.hiv,available,195.99,195.99,medium,low,10,namesilo,,,09/09/2026 02:50
 4db1762d-d87b-445e-a6c4-f97bd6d45e97,zone.hiv,available,184.99,,high,low,4,name.com,,,
 53b5bddc-ca9c-4fb3-a7d6-dc1c43ae2e9f,esteemed.hiv,available,184.99,184.99,high,low,8,name.com,,,17/08/2026 13:23
-6e45e5b4-53f1-4210-8898-6aa65c428ac9,relatively.hiv,available,184.99,,high,low,10,name.com,,,
+6e45e5b4-53f1-4210-8898-6aa65c428ac9,relatively.hiv,available,184.99,,medium,low,10,name.com,,,
 2618ec50-fc83-4e99-ab8d-3c3032b97cda,bathhouse.hiv,available,195.99,195.99,high,low,9,namesilo,,,22/09/2026 13:35
 256a0a4d-302d-4f1e-a7f6-2bef1d944de7,tentacular.hiv,available,184.99,184.99,medium,low,10,name.com,,,11/09/2026 11:35
 44c98a55-4dd1-4eaa-a592-0024a444c7a6,vitally.hiv,available,195.99,195.99,high,low,7,namesilo,,,16/09/2026 11:05
-b9ae3714-6d64-424e-bf37-721e4daf1fcf,assumption.hiv,available,195.99,195.99,high,low,10,namesilo,,,20/09/2026 16:39
+b9ae3714-6d64-424e-bf37-721e4daf1fcf,assumption.hiv,available,195.99,195.99,medium,low,10,namesilo,,,20/09/2026 16:39
 1fb5aee6-7659-4975-a9a2-6e00c80f7eba,plummy.hiv,available,195.99,195.99,medium,low,6,namesilo,,,08/09/2026 21:51
 920ef9fc-acc5-479a-8f17-65bcb0e4061e,kicking.hiv,available,184.99,,high,low,7,name.com,,,
 b55a8a32-be13-499e-ad7d-cac34eac6471,prn.hiv,available,,,medium,low,3,,,,13/09/2026 21:26
 dad386e1-b20a-4c40-bd16-f3c142af355b,hurtful.hiv,available,184.99,184.99,medium,low,7,name.com,,,14/08/2026 00:28
-ae9612f8-684f-4c6b-9033-dba32b9dd8dc,declarer.hiv,available,195.99,195.99,high,low,8,namesilo,,,17/09/2026 14:33
+ae9612f8-684f-4c6b-9033-dba32b9dd8dc,declarer.hiv,available,195.99,195.99,medium,low,8,namesilo,,,17/09/2026 14:33
 47415ee2-8ce9-459e-a8aa-56ec2a3c80b6,clitoral.hiv,available,184.99,184.99,medium,low,8,name.com,,,12/08/2026 11:25
 413a330d-2be4-4983-be6c-5ee224117e5d,angel.hiv,available,184.99,,high,low,5,name.com,,,
+37922d9c-550b-4a54-b674-77ed094304fe,ignatius.hiv,available,191.75,191.75,high,low,8,dynadot,,,27/09/2026 14:14
 c4c5301a-99df-453f-8416-aa878d8d4eae,documented.hiv,available,195.99,195.99,high,low,10,namesilo,,,22/09/2026 11:37
 7078c462-491d-4743-8690-da42db81e9d9,backhoe.hiv,available,195.99,195.99,high,low,7,namesilo,,,21/09/2026 15:37
-8c13401f-ac32-4351-b812-50aadce744fc,sexual.hiv,available,,,high,low,6,,,,
 433b4b2f-b7c9-4748-adb3-a8641656e528,aerialist.hiv,available,195.99,195.99,medium,low,9,namesilo,,,17/09/2026 12:50
 5dd5e043-8718-448a-aa86-db874b98f4c8,ninety.hiv,available,184.99,184.99,high,low,6,name.com,,,
 ffddc512-93ce-4881-9fd1-00f5b5a70a55,debased.hiv,available,184.99,184.99,medium,low,7,name.com,,,
@@ -181,7 +188,7 @@ dbba9cad-c769-4811-8580-0f2dc3ae7cce,diatonic.hiv,available,184.99,184.99,medium
 d141ba6a-b6b5-49b2-896e-544442ecc593,elegiac.hiv,available,184.99,184.99,medium,low,7,name.com,,,16/08/2026 03:28
 d21975ac-0fa1-48d4-8a59-fe6b110a8d60,spiteful.hiv,available,184.99,184.99,medium,low,8,name.com,,,14/08/2026 04:20
 c77cb218-78bb-4593-a64e-99932fc509d9,siege.hiv,available,195.99,195.99,high,low,5,namesilo,,,23/09/2026 04:50
-326bed04-9078-43f2-8911-7ee4f295ee61,lupine.hiv,available,184.99,184.99,high,low,6,name.com,,,24/08/2026 11:39
+326bed04-9078-43f2-8911-7ee4f295ee61,lupine.hiv,available,184.99,184.99,medium,low,6,name.com,,,24/08/2026 11:39
 4ff20413-9b4b-4ccf-ab0a-3b4c5c95d7f2,endure.hiv,available,184.99,184.99,high,low,6,name.com,,,11/08/2026 02:41
 6b836132-905d-414c-8592-a52bc4bf04b7,athletics.hiv,available,184.99,,high,medium,9,name.com,,,
 3c0cb114-b24c-4653-b54e-6634741e20e0,communities.hiv,available,195.99,195.99,high,low,11,namesilo,,,17/09/2026 18:41
@@ -189,7 +196,7 @@ e7daa3c3-365a-477a-93f1-8c0228ec4015,adenovirus.hiv,available,195.99,195.99,high
 9f7200aa-f808-4e17-b0c1-1e514080209d,natalie.hiv,available,195.99,195.99,high,low,7,namesilo,,,25/09/2026 14:26
 63a9b30a-f104-45f2-b800-ab68eba4d511,washington.hiv,available,,,high,low,10,,,,
 ba323b61-9288-46fc-9049-1c92ebc116df,stunningly.hiv,available,195.99,195.99,medium,low,10,namesilo,,,16/09/2026 06:09
-95996664-f08f-4681-a9a8-b1a2af795f9d,bassoonist.hiv,available,195.99,195.99,high,low,10,namesilo,,,22/09/2026 12:33
+95996664-f08f-4681-a9a8-b1a2af795f9d,bassoonist.hiv,available,195.99,195.99,medium,low,10,namesilo,,,22/09/2026 12:33
 135d0ab2-1fd5-4ab2-9096-5807cb50f62c,schmidt.hiv,available,184.99,184.99,high,high,7,name.com,,,25/09/2026 07:11
 03919912-7b64-4446-a68d-ba2c4949edff,bovine.hiv,available,184.99,184.99,high,medium,6,name.com,,,10/08/2026 22:51
 812c4f5c-e744-4a76-b331-f81ca34baadf,flop.hiv,available,195.99,195.99,high,low,4,namesilo,,,23/09/2026 12:03
@@ -206,11 +213,12 @@ d36de91e-5e35-4604-b662-0cabebae7ad6,noticed.hiv,available,195.99,195.99,high,lo
 899e95c6-a80f-44d8-b663-59f0c6893b52,affluent.hiv,available,195.99,195.99,high,low,8,namesilo,,,21/09/2026 21:54
 c46dd50d-99b0-4eda-a959-16c800ad7557,florentine.hiv,available,184.99,184.99,high,low,10,name.com,,,18/08/2026 08:58
 4b9dc483-7375-4fb1-8800-b6dd5c30ace7,omdurman.hiv,available,195.99,195.99,medium,low,8,namesilo,,,22/09/2026 15:32
+9a3045c9-24ac-4e41-b4a5-fd53dfa90356,walpole.hiv,available,184.9,184.9,medium,low,7,spaceship,,,28/09/2026 01:54
 8b70b988-b121-4347-82d9-d76d67b274fb,mimicry.hiv,available,195.99,195.99,medium,low,7,namesilo,,,19/09/2026 16:43
 6a3e1638-1845-4bb1-bc25-70e3c53560ab,victor.hiv,available,184.99,,high,medium,6,name.com,,,
 81124171-6f56-4d74-a1b2-3dbf2dbd640f,doomed.hiv,available,184.99,184.99,medium,low,6,name.com,,,14/08/2026 15:57
 85a09082-130a-4493-b228-7cc7ed260257,incredibly.hiv,available,195.99,195.99,high,low,10,namesilo,,,14/09/2026 17:21
-92482133-0b7c-4801-848a-6fdfb3f24359,toothed.hiv,available,184.99,184.99,high,low,7,name.com,,,17/08/2026 12:41
+92482133-0b7c-4801-848a-6fdfb3f24359,toothed.hiv,available,184.99,184.99,medium,low,7,name.com,,,17/08/2026 12:41
 b6177fa9-2ece-49c4-b51a-cb1035dfa05a,workouts.hiv,available,195.99,195.99,medium,low,8,namesilo,,,19/09/2026 22:42
 3283de5d-9163-49a9-9bfc-146b04565ef2,wroth.hiv,available,195.99,195.99,medium,low,5,namesilo,,,13/09/2026 13:38
 ef49f0f6-198f-4ce7-9755-3ba890b61f38,childlike.hiv,available,184.99,184.99,high,low,9,name.com,,,12/08/2026 05:12
@@ -244,17 +252,20 @@ d6225131-d482-4c00-821a-2999e247f5d0,employee.hiv,available,195.99,195.99,high,l
 90217f7f-e67e-4215-934d-41370f8c78fa,daybreak.hiv,available,195.99,195.99,high,low,8,namesilo,,,11/09/2026 02:05
 54801441-4212-4350-9ab1-ebf854331cb2,rateable.hiv,available,195.99,195.99,high,medium,8,namesilo,,,09/09/2026 10:32
 906a2fea-dfb2-477f-99d3-f078568d415e,jack.hiv,available,184.99,,high,medium,4,name.com,,,
+c943173e-c61c-498a-a66a-9abf5d37a410,cardiff.hiv,available,195.99,195.99,high,low,7,namesilo,,,28/09/2026 01:26
 2fc837ef-8e9d-4083-a800-0b0bebb26359,unrigged.hiv,available,,,medium,low,8,,,,12/09/2026 18:28
 c80ef339-6a8c-45d0-b817-9a4a78b82a2f,wayfaring.hiv,available,195.99,195.99,medium,low,9,namesilo,,,13/09/2026 08:47
+aef456ed-4d6c-4ca5-95d8-56c4dd3b7b85,platoon.hiv,available,195.99,195.99,high,low,7,namesilo,,,27/09/2026 15:14
 2c358bb2-5edf-4eb6-98b0-f2aaffa6b224,disarming.hiv,available,184.99,184.99,high,low,9,name.com,,,14/08/2026 09:30
 56b716e9-fe07-4e6f-80aa-720af79e8de6,ledger.hiv,available,195.99,195.99,high,medium,6,namesilo,,,16/09/2026 23:06
 8d2cc40f-9f06-4fe8-ad3b-24a55b73ae87,hesitation.hiv,available,195.99,195.99,high,low,10,namesilo,,,24/09/2026 16:28
 a2718ac8-8975-4ca3-b208-8aea90813e7c,sammy.hiv,available,195.99,195.99,high,low,5,namesilo,,,26/09/2026 03:25
+288d2f71-c3fd-40a5-80e8-618f6630ede6,fayette.hiv,available,184.9,184.9,medium,low,7,spaceship,,,27/09/2026 20:20
 264a3985-61ba-4b61-a5fe-d480fbcd7327,serially.hiv,available,195.99,195.99,medium,low,8,namesilo,,,16/09/2026 01:08
 84c150bc-01c5-469a-ad8a-e8e6edabb46a,protocols.hiv,available,195.99,195.99,medium,low,9,namesilo,,,19/09/2026 04:47
 1bf1accb-75d2-4c33-9193-1c02c250be01,reported.hiv,available,195.99,195.99,high,low,8,namesilo,,,27/09/2026 11:56
 3662b72b-82e3-4438-9095-e875b20a6e4c,brandt.hiv,available,184.9,184.9,high,low,6,spaceship,,,27/09/2026 11:47
-5e0cc591-759d-4704-961d-c1194ffc5638,cryogenic.hiv,available,184.99,184.99,high,low,9,name.com,,,13/08/2026 09:35
+5e0cc591-759d-4704-961d-c1194ffc5638,cryogenic.hiv,available,184.99,184.99,medium,low,9,name.com,,,13/08/2026 09:35
 fabe6bbb-5ea1-4db5-947b-c84c040c0f61,kwhr.hiv,available,195.99,195.99,high,low,5,namesilo,,,21/09/2026 11:57
 12dd387a-3941-4c74-8ce1-f3823cfffbc7,apnea.hiv,available,,,medium,low,5,,,,19/09/2026 18:04
 bdd2cb3d-13d8-49be-9c32-8135bb168038,gains.hiv,available,184.99,,medium,low,5,name.com,,,18/09/2026 18:50
@@ -271,6 +282,7 @@ bae21e7f-6345-4664-9bbc-be595668126c,buckram.hiv,available,184.99,184.99,medium,
 15801557-0555-4632-a792-0ecea1f1526b,harmful.hiv,available,184.99,184.99,medium,low,7,name.com,,,08/09/2026 09:32
 44cb1cbf-2cd2-4da9-92a6-fabfb9a33443,hotshot.hiv,available,195.99,195.99,high,low,7,namesilo,,,21/09/2026 17:48
 b8463e1e-4a09-46c3-ba2f-a6376b224e11,fingers.hiv,available,184.99,,medium,low,7,name.com,,,
+9ee88064-0188-4c89-9257-86d23822ed51,planck.hiv,available,195.99,195.99,high,low,6,namesilo,,,28/09/2026 02:23
 6240df51-6d93-4459-879d-46e650513580,flipping.hiv,available,184.99,,high,low,8,name.com,,,17/09/2026 18:25
 17fabe37-6ba3-4a0e-8215-2e2ae080e793,threesome.hiv,available,184.99,184.99,high,low,9,name.com,,,
 f9628624-5d33-4989-99ba-78c074cd581b,bitchy.hiv,available,184.99,184.99,medium,low,6,name.com,,,10/08/2026 07:17
@@ -299,8 +311,8 @@ a602d6ec-5ac0-497b-b006-2f4300eb3092,acceptor.hiv,available,195.99,195.99,high,l
 770bb161-5d15-4a94-9f57-7cbbeb5d9c6c,jolt.hiv,available,195.99,195.99,high,low,4,namesilo,,,25/09/2026 11:45
 569fa5df-9bf1-4b4e-bae4-67e98ea4f053,super.hiv,available,184.99,184.99,high,medium,5,name.com,,,
 14091c6b-c935-4ed8-9e7d-846f0f8525f5,lager.hiv,available,184.99,,high,low,5,name.com,,,
-031fc347-950c-410c-9166-30d21353084d,extempore.hiv,available,184.99,184.99,high,low,9,name.com,,,
-c250601f-3fc1-4f3b-9532-98922f7ceade,unionized.hiv,available,,,high,low,9,,,,03/09/2026 19:29
+031fc347-950c-410c-9166-30d21353084d,extempore.hiv,available,184.99,184.99,medium,low,9,name.com,,,
+c250601f-3fc1-4f3b-9532-98922f7ceade,unionized.hiv,available,,,medium,low,9,,,,03/09/2026 19:29
 df14fa9a-192d-42ed-ab67-2a65a1da2dff,revenge.hiv,available,195.99,195.99,high,low,7,namesilo,,,25/09/2026 10:18
 e7f2e010-8aa0-4669-baea-489b8ae5c247,chicness.hiv,available,184.99,184.99,medium,low,8,name.com,,,12/08/2026 04:44
 bb859777-bda7-4021-99a5-b5aff57907cb,discussed.hiv,available,195.99,195.99,medium,low,9,namesilo,,,27/09/2026 10:04
@@ -308,7 +320,7 @@ bb859777-bda7-4021-99a5-b5aff57907cb,discussed.hiv,available,195.99,195.99,mediu
 c23963e8-4743-4525-bb69-c60d88ed801c,pissed.hiv,available,184.99,184.99,medium,low,6,name.com,,,
 0f0fb696-2854-43ab-a332-12ad65005208,baptists.hiv,available,195.99,195.99,high,low,8,namesilo,,,22/09/2026 03:33
 2b5e60e8-f271-42b5-a11d-cc05c47fdba5,kiss.hiv,available,184.99,,high,low,4,name.com,,,
-290f3c95-c2b0-481b-9ba0-16d6c5a8b878,turnabout.hiv,available,184.99,,high,low,10,name.com,,,
+290f3c95-c2b0-481b-9ba0-16d6c5a8b878,turnabout.hiv,available,184.99,,medium,low,10,name.com,,,
 ccbb5c25-9c75-4774-8730-5ed644b98040,gentle.hiv,available,184.99,184.99,high,low,6,name.com,,,06/08/2026 19:29
 784d15a3-40cc-46ad-ab53-5e626ceb5cb2,ballup.hiv,available,195.99,195.99,medium,low,6,namesilo,,,21/09/2026 23:27
 1c31aa6a-0049-4da2-9626-9e4f016dff61,neighbor.hiv,available,184.99,,high,low,8,name.com,,,
@@ -316,13 +328,13 @@ e04119e4-9d2e-4a66-9664-461aa9ed41ae,ashlar.hiv,available,195.99,195.99,high,low
 05839f31-a35a-4c57-aae1-32f31a7a2036,exquisite.hiv,available,184.99,184.99,high,low,9,name.com,,,17/08/2026 18:54
 2ca86203-5608-4433-8881-e20cbf75213d,stool.hiv,available,195.99,195.99,high,medium,5,namesilo,,,09/09/2026 00:53
 1c83e630-b31b-4929-8a4a-f44af341f696,tangle.hiv,available,195.99,195.99,high,low,6,namesilo,,,25/09/2026 17:42
-481be1bf-b281-4bec-bb02-db4a770c714c,bartholin.hiv,available,195.99,195.99,high,low,9,namesilo,,,22/09/2026 09:14
+481be1bf-b281-4bec-bb02-db4a770c714c,bartholin.hiv,available,195.99,195.99,medium,low,9,namesilo,,,22/09/2026 09:14
 32a71aa2-2e1b-419f-82f0-a8747d498476,indecent.hiv,available,184.99,184.99,medium,low,8,name.com,,,25/09/2026 09:06
 e33dd8ca-6475-4ea0-bceb-7696da3ae485,colombian.hiv,available,184.99,184.99,high,low,9,name.com,,,12/08/2026 17:18
 d31e4eba-f2aa-4d35-b8d2-14b584e2e1ba,heyday.hiv,available,184.99,184.99,high,low,6,name.com,,,18/08/2026 09:24
 c71424a1-372d-41da-9456-c8ffec99f3fa,toughened.hiv,available,195.99,195.99,medium,low,9,namesilo,,,11/09/2026 10:54
 02fb3456-c09e-439a-b027-5cc68ba649c4,concise.hiv,available,184.99,184.99,high,low,7,name.com,,,23/09/2026 19:03
-9d811be4-ac56-4fcb-82bf-925f7b2f259f,combative.hiv,available,184.99,184.99,high,low,9,name.com,,,
+9d811be4-ac56-4fcb-82bf-925f7b2f259f,combative.hiv,available,184.99,184.99,medium,low,9,name.com,,,
 03e22a4d-d8c9-4382-a07e-26a512952c4e,raw.hiv,available,184.99,184.99,high,low,3,name.com,,,08/08/2026 18:20
 ec606e25-8a9e-48f2-acab-1b62917fff57,johnson.hiv,available,195.99,195.99,high,low,7,namesilo,,,19/09/2026 04:46
 5e720082-3d6d-431d-9f09-8dd98db45694,eyrie.hiv,available,184.99,184.99,high,low,5,name.com,,,
@@ -343,8 +355,8 @@ c3964dfb-d8bf-4f3e-b330-d0264a2a794f,kathleen.hiv,available,195.99,195.99,high,l
 f4847cae-6424-4785-aa93-1ba0e377231d,nutlike.hiv,available,195.99,195.99,medium,low,7,namesilo,,,03/09/2026 23:16
 46f4a876-f092-4c82-bae2-fe8ebbb25d8c,social.hiv,available,195.99,195.99,high,medium,6,namesilo,,,19/09/2026 17:20
 07cc83e9-37e9-457f-8602-972dce51b7f0,kenneth.hiv,available,,,high,low,7,,,,25/09/2026 19:13
-12023784-3f1b-497e-a423-8065d41c5f8c,spay.hiv,available,184.99,184.99,high,low,4,name.com,,,03/09/2026 16:33
-89da1df3-e2be-429c-b00d-683556dab452,blowout.hiv,available,184.99,,high,low,7,name.com,,,
+12023784-3f1b-497e-a423-8065d41c5f8c,spay.hiv,available,184.99,184.99,medium,low,4,name.com,,,03/09/2026 16:33
+89da1df3-e2be-429c-b00d-683556dab452,blowout.hiv,available,184.9,184.9,high,low,7,spaceship,,,27/09/2026 16:59
 3649963d-2e96-4280-abf4-d508f67624c2,vargas.hiv,available,195.99,195.99,high,low,6,namesilo,,,27/09/2026 04:13
 fb1730cc-64c4-4240-8ca8-76c4d66ebfa5,cive.hiv,available,195.99,195.99,medium,low,4,namesilo,,,18/09/2026 11:31
 0ab5e5fd-57ac-4ce0-b649-176fe0471c84,audubon.hiv,available,195.99,195.99,medium,low,7,namesilo,,,21/09/2026 03:14
@@ -372,7 +384,7 @@ d483a9d2-342c-42c0-9077-c8afb8ffb2bf,scam.hiv,available,195.99,195.99,high,low,4
 a4155786-09ba-49a6-8bf3-55bce5167156,gallium.hiv,available,195.99,195.99,high,low,7,namesilo,,,20/09/2026 22:50
 2e2d330f-5ff6-4e91-9ded-b74d3da5c411,nailed.hiv,available,195.99,195.99,medium,low,6,namesilo,,,18/09/2026 21:49
 d3294e5a-3220-4118-886b-435ce634abc0,bey.hiv,available,195.99,195.99,medium,low,3,namesilo,,,23/09/2026 12:10
-0d36dd5d-815d-4fe9-be8e-7f0136005582,squabble.hiv,available,195.99,195.99,high,low,8,namesilo,,,23/09/2026 13:15
+0d36dd5d-815d-4fe9-be8e-7f0136005582,squabble.hiv,available,195.99,195.99,medium,low,8,namesilo,,,23/09/2026 13:15
 68f12825-ca38-47e0-8b0e-59dab14d3190,trades.hiv,available,195.99,195.99,high,low,6,namesilo,,,25/09/2026 14:51
 3506b6b6-09f3-46b9-a7aa-b6eb3c1313ec,parks.hiv,available,184.99,,high,low,5,name.com,,,
 f85b4be4-6622-4004-a65b-326cdbd77741,ephemeron.hiv,available,184.99,184.99,medium,low,9,name.com,,,17/08/2026 10:22
@@ -384,7 +396,7 @@ f7cab5dc-09e5-47e3-a5a2-f4327963d836,mannered.hiv,available,184.99,184.99,medium
 c388e28a-d48d-40bb-bcee-2f5aabd60770,chiseled.hiv,available,184.99,184.99,medium,low,8,name.com,,,12/08/2026 06:05
 174d404a-30ac-4be6-a55b-ee7a009c90fe,soapy.hiv,available,184.99,184.99,medium,low,5,name.com,,,11/08/2026 11:48
 a54166e2-603f-44dd-a4bd-6f5521fa05ba,concisely.hiv,available,195.99,195.99,medium,low,9,namesilo,,,14/09/2026 08:10
-6297af3e-e38a-48d3-8cd9-2b922e4da651,coventry.hiv,available,195.99,195.99,high,low,8,namesilo,,,22/09/2026 02:09
+6297af3e-e38a-48d3-8cd9-2b922e4da651,coventry.hiv,available,195.99,195.99,medium,low,8,namesilo,,,22/09/2026 02:09
 fcd29650-4f28-4d0a-8170-adf45653d2ce,campaigner.hiv,available,184.99,,high,low,10,name.com,,,
 cd13ccab-a387-4ee3-8d95-ef8e321f12aa,allowable.hiv,available,184.99,184.99,high,low,9,name.com,,,
 c2e60f03-d652-4adf-af65-7d58e68fc5ef,acronym.hiv,available,184.99,,high,low,7,name.com,,,
@@ -422,8 +434,9 @@ b96b4b86-3f64-455c-9c2d-f1a4467910e9,acinus.hiv,available,195.99,195.99,medium,l
 f3a768fc-9827-42a4-aa13-5f54942378c5,einstein.hiv,available,184.99,,high,low,8,name.com,,,
 ca82056e-6f08-403a-8848-089c14427df5,umbilicus.hiv,available,195.99,195.99,high,low,9,namesilo,,,23/09/2026 06:37
 2b0e8ae5-424a-45db-9fda-868ef896a665,devout.hiv,available,184.99,184.99,high,low,6,name.com,,,14/08/2026 05:17
-b819ffa2-6448-4f8a-b4b6-7e2a98751ec3,executing.hiv,available,184.99,,high,low,9,name.com,,,
+b819ffa2-6448-4f8a-b4b6-7e2a98751ec3,executing.hiv,available,184.99,,medium,low,9,name.com,,,
 da845183-8eac-48a5-af7a-aab19cd7e821,het.hiv,available,184.99,184.99,medium,low,3,name.com,,,21/08/2026 02:20
+eb236a9d-988a-46c2-87b2-468002e6bf87,stabbed.hiv,available,184.9,184.9,low,low,7,spaceship,,,28/09/2026 00:02
 287f9883-94e2-471f-be6d-f307cc4237c9,robert.hiv,available,195.99,195.99,high,low,6,namesilo,,,25/09/2026 07:17
 f1e035f0-9e16-453b-8d45-94200f6ce10c,suspension.hiv,available,184.99,,high,low,10,name.com,,,
 b2937b45-14a3-4189-86b8-25d60c5a1ded,cohort.hiv,available,195.99,195.99,high,low,6,namesilo,,,17/09/2026 16:45
@@ -444,7 +457,7 @@ ee79eee1-505d-4c54-9747-620b63a75a83,microbial.hiv,available,195.99,195.99,high,
 3c1ae0c2-02b0-4f5e-84e6-62bf31ee72b4,pomegranates.hiv,available,195.99,195.99,medium,low,12,namesilo,,,20/09/2026 01:42
 78cdbb33-364d-49d5-b7d7-10254c0b6918,inglorious.hiv,available,184.99,184.99,medium,low,10,name.com,,,21/08/2026 18:25
 1f531e85-9cc3-4e8a-b39d-c91322778e22,tub.hiv,available,184.99,,high,low,3,name.com,,,
-357f00e0-0756-4ab4-8323-1228e2aefcf3,dawn.hiv,available,184.99,,high,low,4,name.com,,,
+357f00e0-0756-4ab4-8323-1228e2aefcf3,dawn.hiv,available,195.99,195.99,high,low,4,namesilo,,,28/09/2026 01:54
 8ad232c3-a02b-45e9-912a-8c78b91142cc,antagonist.hiv,available,195.99,195.99,high,low,10,namesilo,,,17/09/2026 10:48
 1f91752c-5fe4-4861-a424-08fed55f2c37,forth.hiv,available,195.99,195.99,high,low,5,namesilo,,,22/09/2026 14:59
 3b0ad12a-10b4-4461-9fba-d8ce73d0be3a,crispy.hiv,available,184.99,184.99,high,low,6,name.com,,,13/08/2026 07:23
@@ -456,12 +469,12 @@ c7c91afe-fe99-4aea-afb2-68cd48865381,dutiful.hiv,available,184.99,184.99,high,lo
 7a35110d-1387-4ce9-a8a8-26f380613aef,celsius.hiv,available,195.99,195.99,high,low,7,namesilo,,,19/09/2026 04:00
 68284509-9902-4743-a8d0-0b5760fc5de0,barmy.hiv,available,184.99,184.99,medium,low,5,name.com,,,06/08/2026 20:25
 844c6eed-85ec-45f9-97b3-c95a062e5eda,mindful.hiv,available,184.99,184.99,high,low,7,name.com,,,24/08/2026 23:36
-8ce95eed-3916-40c9-8690-2176b883cfe9,alienage.hiv,available,195.99,195.99,high,low,8,namesilo,,,18/09/2026 07:33
+8ce95eed-3916-40c9-8690-2176b883cfe9,alienage.hiv,available,195.99,195.99,medium,low,8,namesilo,,,18/09/2026 07:33
 5794e9fe-6484-4a6f-9af4-db98082ca429,nickname.hiv,available,195.99,195.99,high,low,8,namesilo,,,24/09/2026 11:25
 e4add08b-d620-4dba-9233-2e342f438592,debonair.hiv,available,184.99,184.99,high,low,8,name.com,,,12/08/2026 05:58
 10d98af7-62d4-4d24-ba51-7846e767b9b0,nuprin.hiv,available,195.99,195.99,high,low,6,namesilo,,,17/09/2026 11:20
 d65599de-f831-4d39-a20d-9261316b38f7,unpleasant.hiv,available,195.99,195.99,medium,low,10,namesilo,,,12/09/2026 16:58
-eefee21e-715c-4a1a-a09b-d3fa24315ddc,barony.hiv,available,195.99,195.99,high,low,6,namesilo,,,22/09/2026 07:36
+eefee21e-715c-4a1a-a09b-d3fa24315ddc,barony.hiv,available,195.99,195.99,medium,low,6,namesilo,,,22/09/2026 07:36
 c67fef86-be22-4f7f-9783-ebbae118751f,scheme.hiv,available,184.99,,high,low,6,name.com,,,
 9a03fe61-802b-40fe-bb2e-f69c57e0b31e,augmented.hiv,available,195.99,195.99,high,low,9,namesilo,,,22/09/2026 12:42
 f5521f00-5aa3-4a61-994c-bf9cf0294abb,frisky.hiv,available,184.99,184.99,high,low,6,name.com,,,18/08/2026 16:02
@@ -477,20 +490,21 @@ e5975138-380e-4f68-8739-3afd423ad50f,pages.hiv,available,195.99,195.99,high,low,
 a503e568-ec56-4e43-89b7-c9f7a131e019,aglet.hiv,available,,,medium,low,5,,,,17/09/2026 18:21
 72108a38-ceef-4815-9f42-7085c909dcd2,smaller.hiv,available,195.99,195.99,high,low,7,namesilo,,,25/09/2026 14:03
 7d741f2e-19e2-4823-8590-7fc211ae8ec2,ruinous.hiv,available,184.99,184.99,medium,low,7,name.com,,,10/08/2026 13:28
-df207cc8-3795-4979-9b33-da99ae6898cc,undogmatic.hiv,available,184.99,184.99,high,low,10,name.com,,,18/08/2026 14:50
+df207cc8-3795-4979-9b33-da99ae6898cc,undogmatic.hiv,available,184.99,184.99,medium,low,10,name.com,,,18/08/2026 14:50
 85a559e4-2738-47b9-be7c-1c3d025cbfa6,nebular.hiv,available,184.99,184.99,medium,low,7,name.com,,,12/08/2026 12:39
 62ebe10d-46e7-446e-b2ec-2868264e67b6,intolerant.hiv,available,184.99,184.99,medium,low,10,name.com,,,21/08/2026 20:02
 37ccf987-1b9f-4bf7-b3dc-4f19916301af,eventide.hiv,available,184.99,184.99,high,low,8,name.com,,,17/08/2026 14:48
-6f756016-f3e4-45df-998a-51a14f475ec8,baldy.hiv,available,195.99,195.99,high,low,5,namesilo,,,21/09/2026 21:43
+6f756016-f3e4-45df-998a-51a14f475ec8,baldy.hiv,available,195.99,195.99,medium,low,5,namesilo,,,21/09/2026 21:43
 b31ee7e4-b523-4312-9474-d0de66035c7c,automaton.hiv,available,195.99,195.99,high,low,9,namesilo,,,21/09/2026 07:00
-54f5433d-c7f2-444d-92bb-5ac0b6f5feb6,avocation.hiv,available,195.99,195.99,high,low,9,namesilo,,,21/09/2026 09:37
+54f5433d-c7f2-444d-92bb-5ac0b6f5feb6,avocation.hiv,available,195.99,195.99,medium,low,9,namesilo,,,21/09/2026 09:37
+3318c919-9ec8-43fe-9ff3-a0ae3bbbf7f8,sleeve.hiv,available,184.9,184.9,high,low,6,spaceship,,,27/09/2026 15:53
 bad70723-136e-4593-8749-e4300df5f23f,shelton.hiv,available,195.99,195.99,medium,low,7,namesilo,,,27/09/2026 01:50
 1e0c5d34-d818-4878-bb21-407d50addea1,atop.hiv,available,184.99,,medium,low,4,name.com,,,
 87e7e77c-88f2-4e29-bdfe-ceff99e79498,unproven.hiv,available,195.99,195.99,medium,low,8,namesilo,,,12/09/2026 17:33
-c8e8e15f-62a4-4feb-8d4e-5d0808bb45a7,shift.hiv,available,184.99,,high,medium,5,name.com,,,
+c8e8e15f-62a4-4feb-8d4e-5d0808bb45a7,shift.hiv,available,184.86,184.86,high,medium,5,porkbun,,,27/09/2026 21:11
 c96ff3a1-00e7-43e8-a2f3-280618d3990c,terror.hiv,available,184.99,,high,low,6,name.com,,,
-3ba9f407-1654-451a-aa89-189485a71699,woops.hiv,available,184.99,,high,low,5,name.com,,,
-13272a87-5006-4498-b4c8-ce9b664b0073,gingerly.hiv,available,184.99,184.99,high,low,8,name.com,,,18/08/2026 23:55
+3ba9f407-1654-451a-aa89-189485a71699,woops.hiv,available,184.99,,medium,low,5,name.com,,,
+13272a87-5006-4498-b4c8-ce9b664b0073,gingerly.hiv,available,184.99,184.99,medium,low,8,name.com,,,18/08/2026 23:55
 d4c2beba-1187-4bab-a52c-204a5007cb60,sestet.hiv,available,184.99,184.99,medium,low,6,name.com,,,
 c048949d-7038-4a0a-bd67-e7e2e5dbf4a0,academics.hiv,available,195.99,195.99,high,low,9,namesilo,,,24/09/2026 02:34
 77205d5f-6e07-40c1-9003-fd9e3a8423e7,pursuit.hiv,available,195.99,195.99,high,low,7,namesilo,,,21/09/2026 09:41
@@ -505,7 +519,7 @@ f49c2ea7-0c97-4a8d-9808-47c3c3257766,aeneas.hiv,available,195.99,195.99,medium,l
 9e894f21-eb47-4fc3-bc24-1c8ee1ea8b0a,bourbon.hiv,available,195.99,195.99,high,low,7,namesilo,,,24/09/2026 07:37
 6b952ae3-ffea-481f-bb96-0ef88fcc3f22,automobile.hiv,available,184.99,,high,low,10,name.com,,,
 65a3f0e7-898c-419d-9c73-91bbcdbaf96b,flawlessly.hiv,available,184.99,184.99,medium,low,10,name.com,,,12/08/2026 10:23
-1e87d254-cce7-4151-af8f-a2ea6a98f08b,clouded.hiv,available,184.99,184.99,high,low,7,name.com,,,12/08/2026 12:27
+1e87d254-cce7-4151-af8f-a2ea6a98f08b,clouded.hiv,available,184.99,184.99,medium,low,7,name.com,,,12/08/2026 12:27
 a93a58c1-aa87-46be-9c63-1308773e6bba,ribbed.hiv,available,184.99,184.99,medium,low,6,name.com,,,13/08/2026 03:08
 8cd40266-a8b5-4cfe-955f-a153f79177d4,unfunny.hiv,available,195.99,195.99,medium,low,7,namesilo,,,12/09/2026 11:05
 0b829c66-38d7-414e-b592-8aa416d3fee9,trumpcare.hiv,available,184.99,,medium,low,10,name.com,,,
@@ -516,7 +530,7 @@ aba803cc-e75c-4cda-9b4d-7df75d6cd7fa,paleozoic.hiv,available,195.99,195.99,mediu
 8f0d7f88-0ace-427d-9e23-61ac3e8e9f5a,divorcing.hiv,available,195.99,195.99,low,low,9,namesilo,,,17/09/2026 22:37
 bee94ec4-bc4d-469d-8f77-3cdb9ba28978,communally.hiv,available,195.99,195.99,high,low,10,namesilo,,,14/09/2026 07:33
 5ca76889-d275-415f-b02d-cc0c6d7f6c8d,phrasal.hiv,available,,,high,medium,7,,,,08/09/2026 19:19
-9a540c0e-6478-4715-a5ab-54b6f971b3c3,bifocal.hiv,available,184.99,184.99,high,low,7,name.com,,,09/08/2026 20:03
+9a540c0e-6478-4715-a5ab-54b6f971b3c3,bifocal.hiv,available,184.99,184.99,medium,low,7,name.com,,,09/08/2026 20:03
 f1c2ce35-f78a-4156-b9d5-233827bfa247,bayonet.hiv,available,,,high,low,7,,,,22/09/2026 18:04
 b681a2e1-4b5a-498c-af13-168f0d73f256,cursively.hiv,available,195.99,195.99,medium,low,9,namesilo,,,14/09/2026 10:07
 498508e3-56d5-492a-bbcd-cae0d5b929b1,determines.hiv,available,195.99,195.99,medium,low,10,namesilo,,,19/09/2026 23:58
@@ -530,7 +544,7 @@ c0b7aea2-5c1e-489b-b4aa-f79c3f0afcd3,multilane.hiv,available,195.99,195.99,mediu
 6e96346b-53b0-4524-8512-8e61cd0b1921,berceuse.hiv,available,195.99,195.99,high,low,8,namesilo,,,23/09/2026 09:10
 65a7591d-2eb5-4bb4-b98e-f074b3958592,colombo.hiv,available,184.99,,high,low,7,name.com,,,
 ac73efe7-9982-49a8-8e45-673b476cc661,audad.hiv,available,195.99,195.99,medium,low,5,namesilo,,,18/09/2026 22:16
-11d6f539-fd23-4965-a3b7-fd3ce5b23dd2,nimbly.hiv,available,,,high,low,6,,,,13/09/2026 18:18
+11d6f539-fd23-4965-a3b7-fd3ce5b23dd2,nimbly.hiv,available,,,medium,low,6,,,,13/09/2026 18:18
 aa9e52b9-35d0-49d9-bf36-fd1a9636e6ea,predaceous.hiv,available,195.99,195.99,high,medium,10,namesilo,,,09/09/2026 01:22
 531aab1d-cad5-40fb-a6f2-94c6259d2b06,neurogenic.hiv,available,195.99,195.99,medium,low,10,namesilo,,,03/09/2026 16:12
 237a1810-6595-4485-934d-ef39f949b82a,forms.hiv,available,195.99,195.99,high,low,5,namesilo,,,17/09/2026 09:39
@@ -554,7 +568,7 @@ c450326f-8d83-46ed-89e7-b75c4e473bd6,attica.hiv,available,195.99,195.99,medium,l
 dfef5eb6-3b87-4bd5-82b3-b778e1693ee5,fiercely.hiv,available,184.99,,medium,low,8,name.com,,,
 0a7b4a66-f980-47b0-9cb2-c9a76c28360b,justin.hiv,available,195.99,195.99,high,medium,7,namesilo,,,25/09/2026 16:02
 12cfcaf0-d26c-4e32-848e-ebc5af971440,alkene.hiv,available,195.99,195.99,medium,low,6,namesilo,,,18/09/2026 08:28
-a98cc927-b2e6-4b39-bd4e-25669859dba3,barnum.hiv,available,195.99,195.99,high,low,6,namesilo,,,22/09/2026 06:55
+a98cc927-b2e6-4b39-bd4e-25669859dba3,barnum.hiv,available,195.99,195.99,medium,low,6,namesilo,,,22/09/2026 06:55
 7859ca27-f21a-4322-a722-62d01b94b0cf,hid.hiv,available,195.99,195.99,medium,low,3,namesilo,,,26/09/2026 03:17
 d5a7f088-b905-44e5-a14c-fbaa863cfd6c,coupon.hiv,available,195.99,195.99,high,low,6,namesilo,,,24/09/2026 18:44
 7cd9645d-8a17-4d86-8218-619e725b91d8,gage.hiv,available,184.99,184.99,high,low,4,name.com,,,18/08/2026 19:51
@@ -564,6 +578,7 @@ f6c61c42-4c6b-4a2c-ab64-b4102c3c7702,spacetravel.hiv,available,184.99,,high,low,
 89fd2dfe-9d3a-424c-a80c-c953a68f6b77,baptistry.hiv,available,195.99,195.99,medium,low,9,namesilo,,,22/09/2026 03:28
 7674507a-695a-45aa-a2e6-0978fd564b4b,dawdler.hiv,available,184.99,184.99,medium,low,7,name.com,,,22/08/2026 18:40
 4036c31f-6b8d-485a-8013-ddd79757f7b3,aviary.hiv,available,195.99,195.99,high,low,6,namesilo,,,21/09/2026 09:22
+acbb0ea0-a50f-4483-9f23-54261f1ebe71,emperor.hiv,available,195.99,195.99,high,low,7,namesilo,,,28/09/2026 01:49
 c5f9bb06-9218-4d14-a3cf-0baa7d89e4ba,harlot.hiv,available,184.99,184.99,medium,low,6,name.com,,,13/08/2026 14:19
 570cd0af-3769-4b5a-bb29-643343a43515,lunger.hiv,available,184.99,184.99,medium,low,6,name.com,,,12/08/2026 23:06
 7e762775-fd89-4fe7-a1bf-76361a91e3a3,brainy.hiv,available,184.99,184.99,high,low,6,name.com,,,11/08/2026 01:53
@@ -588,14 +603,14 @@ be623757-a3ac-48ef-b638-089d665f2dc5,mackay.hiv,available,195.99,195.99,medium,l
 7e996afd-7ec9-4372-bc4c-9606475e8c10,bathroom.hiv,available,195.99,195.99,high,low,8,namesilo,,,27/09/2026 06:27
 3b0daad5-764e-404a-be82-970dfedcb524,alcedo.hiv,available,195.99,195.99,high,low,6,namesilo,,,18/09/2026 03:52
 84539da6-2351-4fc5-af57-b88ac3dbc1d5,shiner.hiv,available,195.99,195.99,medium,low,6,namesilo,,,24/09/2026 00:40
-50a47006-a0e5-415e-a31f-26343d6f4c07,dowry.hiv,available,184.99,184.99,high,low,5,name.com,,,24/09/2026 23:36
+50a47006-a0e5-415e-a31f-26343d6f4c07,dowry.hiv,available,184.99,184.99,medium,low,5,name.com,,,24/09/2026 23:36
 8b44e290-58d9-4945-9295-f1cea4c2ecb7,lewdly.hiv,available,195.99,195.99,low,low,6,namesilo,,,15/09/2026 11:12
 be394f70-d8a1-4809-8ea0-c7f86b93eef2,nutrition.hiv,available,195.99,195.99,high,low,9,namesilo,,,18/09/2026 07:53
 9931f6c5-1c49-40d8-babc-1e4853ba7978,yesteryear.hiv,available,195.99,195.99,high,low,10,namesilo,,,08/09/2026 10:02
 4cc8a9d2-f6ba-4f18-9ef1-6af704f1e72b,shipboard.hiv,available,195.99,195.99,high,medium,9,namesilo,,,10/09/2026 06:35
 b142c1bf-7420-4ae0-9907-edec289bb2c3,plough.hiv,available,195.99,195.99,medium,low,6,namesilo,,,23/09/2026 14:29
 3b70776d-ad45-4b9b-8e14-0025152a0369,defending.hiv,available,184.99,184.99,high,low,9,name.com,,,13/08/2026 23:13
-28ad2c28-6914-4526-b25c-f3530b9bf8cb,considering.hiv,available,195.99,195.99,high,low,11,namesilo,,,26/09/2026 03:06
+28ad2c28-6914-4526-b25c-f3530b9bf8cb,considering.hiv,available,195.99,195.99,medium,low,11,namesilo,,,26/09/2026 03:06
 8346b9d0-5692-4fdd-8f7b-c1ac1a6a06c8,bunch.hiv,available,184.99,,high,low,5,name.com,,,
 bdede379-1557-4e9f-8e74-5371c6cd379e,avicenna.hiv,available,195.99,195.99,high,low,8,namesilo,,,16/09/2026 18:41
 79d8f051-ca11-4f95-8e16-fb248f47c7a2,ascension.hiv,available,184.99,184.99,high,low,9,name.com,,,07/08/2026 00:30
@@ -604,7 +619,7 @@ e532bc46-ccc9-4d99-9fa8-1c50a405f85a,total.hiv,available,195.99,195.99,high,medi
 7dc99566-e814-4af5-ad27-4ab824385801,autolytic.hiv,available,184.99,184.99,medium,low,9,name.com,,,07/08/2026 20:42
 40271a54-8c0b-4813-925c-ded39b8869a2,clxv.hiv,available,184.99,184.99,medium,low,4,name.com,,,
 0e1a5b9a-8692-4d18-8a75-5bfa206e6aff,alca.hiv,available,195.99,195.99,high,low,4,namesilo,,,18/09/2026 03:36
-dc7633f3-ecb9-47ee-8360-4b25460b9df8,urbanized.hiv,available,195.99,195.99,high,low,9,namesilo,,,12/09/2026 23:29
+dc7633f3-ecb9-47ee-8360-4b25460b9df8,urbanized.hiv,available,195.99,195.99,medium,low,9,namesilo,,,12/09/2026 23:29
 9634f5b9-f630-4d40-99ba-ec4f61519167,testator.hiv,available,195.99,195.99,medium,low,8,namesilo,,,11/09/2026 12:02
 a7a47734-b250-4e8c-8ce4-7df3f528f35f,adhesive.hiv,available,184.99,184.99,high,low,8,name.com,,,
 363f66cf-1b24-4b28-943b-22dd1d7499ae,westside.hiv,available,195.99,195.99,high,low,8,namesilo,,,13/09/2026 11:00
@@ -615,16 +630,16 @@ a7a47734-b250-4e8c-8ce4-7df3f528f35f,adhesive.hiv,available,184.99,184.99,high,l
 4114947a-8ce0-4d59-a0d7-f55d6ecb3daa,reviving.hiv,available,195.99,195.99,high,low,8,namesilo,,,09/09/2026 14:08
 8293359f-5174-44f7-aa33-44161482f169,miscible.hiv,available,184.99,184.99,medium,low,8,name.com,,,25/08/2026 01:23
 10589676-a6f7-49b4-8d2d-7ab785a2dde8,wentworth.hiv,available,195.99,195.99,high,low,9,namesilo,,,25/09/2026 21:47
-8af71aed-46c1-43bf-99db-4b1ceed0f131,scheduled.hiv,available,184.99,,high,low,9,name.com,,,
+8af71aed-46c1-43bf-99db-4b1ceed0f131,scheduled.hiv,available,195.99,195.99,high,low,9,namesilo,,,27/09/2026 18:26
 bbbe7833-695c-4778-b7ca-523aeb1e58d0,cared.hiv,available,,,high,low,5,,,,25/09/2026 19:49
 0894fbf6-14b3-4b3c-8cc6-16aa69f228ab,insured.hiv,available,184.99,184.99,high,low,7,name.com,,,22/08/2026 07:42
-350e33ff-c223-4683-83e8-11d2235ed400,tapering.hiv,available,184.99,184.99,high,low,8,name.com,,,14/08/2026 21:50
+350e33ff-c223-4683-83e8-11d2235ed400,tapering.hiv,available,184.99,184.99,medium,low,8,name.com,,,14/08/2026 21:50
 c153bcaa-bfbd-4fbe-ab19-1c1fda3bef85,hasten.hiv,available,195.99,195.99,medium,low,6,namesilo,,,09/09/2026 19:47
 91644ee9-28b3-4f9d-95f0-9713d747a733,venturer.hiv,available,195.99,195.99,high,low,8,namesilo,,,24/09/2026 10:43
 60d630e9-afcf-4da5-9613-2f6fcc744470,guilt.hiv,available,184.99,,high,low,5,name.com,,,
 490786fe-b73b-4a0f-b126-a418a0036a19,gamin.hiv,available,195.99,195.99,medium,low,5,namesilo,,,11/09/2026 14:56
 d10c4209-e328-43fa-8b9a-ab09fc8e5f94,aldol.hiv,available,195.99,195.99,high,low,5,namesilo,,,18/09/2026 04:25
-bd8058a9-a364-4479-9da1-a47612c93dc0,slovakian.hiv,available,195.99,195.99,high,low,9,namesilo,,,10/09/2026 11:16
+bd8058a9-a364-4479-9da1-a47612c93dc0,slovakian.hiv,available,195.99,195.99,medium,low,9,namesilo,,,10/09/2026 11:16
 27371b6c-0e48-41f5-916a-e2ed68406cc7,ano.hiv,available,195.99,195.99,high,low,3,namesilo,,,16/09/2026 18:45
 23569698-3d4d-4031-952d-ea8ef9596e53,lyric.hiv,available,195.99,195.99,high,low,5,namesilo,,,25/09/2026 15:47
 11952819-90ab-4e6a-8a1e-f181b0a39597,appellant.hiv,available,184.99,184.99,medium,low,9,name.com,,,06/08/2026 06:23
@@ -635,7 +650,7 @@ e13d80f4-5548-41d5-96b2-a06187479cf5,ananias.hiv,available,195.99,195.99,medium,
 d8b2071b-d7fd-44c8-85c3-b990e02e830f,wordy.hiv,available,184.99,184.99,medium,low,5,name.com,,,24/08/2026 09:32
 d0111de1-9789-4630-b72d-e655613775a8,baobab.hiv,available,195.99,195.99,medium,low,6,namesilo,,,17/09/2026 06:21
 8b37c72b-9489-4ce2-87e6-ac4b046dc6c7,fastgrowing.hiv,available,184.99,,high,low,12,name.com,,,
-e639944c-0058-4c4f-9dae-1a8acf0c84d6,baht.hiv,available,195.99,195.99,high,low,4,namesilo,,,21/09/2026 18:46
+e639944c-0058-4c4f-9dae-1a8acf0c84d6,baht.hiv,available,195.99,195.99,medium,low,4,namesilo,,,21/09/2026 18:46
 1cc90d12-f6b3-4343-9cf0-c2ba875bea08,depraved.hiv,available,184.99,184.99,medium,low,8,name.com,,,14/08/2026 02:29
 54d27ddf-d33a-4ece-8677-915cedb35a6a,aside.hiv,available,184.99,,high,low,5,name.com,,,
 a5c10cf1-124d-4dd4-9493-874b7e802265,nett.hiv,available,195.99,195.99,medium,low,4,namesilo,,,03/09/2026 15:52
@@ -647,7 +662,7 @@ a5c10cf1-124d-4dd4-9493-874b7e802265,nett.hiv,available,195.99,195.99,medium,low
 80fef5cd-5986-41d1-9364-702f7a65288b,bargee.hiv,available,195.99,195.99,medium,low,6,namesilo,,,22/09/2026 05:47
 8b6e8e03-76c6-48f8-8a74-6e25140ab12d,zonal.hiv,available,195.99,195.99,medium,low,5,namesilo,,,13/09/2026 15:29
 f032e62b-33b4-4ec8-937b-d8bbf4a7af25,southwest.hiv,available,195.99,195.99,high,medium,9,namesilo,,,10/09/2026 14:57
-48e29e05-6205-4270-8d21-88ef254c7d30,cutaneous.hiv,available,184.99,184.99,high,low,9,name.com,,,13/08/2026 12:54
+48e29e05-6205-4270-8d21-88ef254c7d30,cutaneous.hiv,available,184.99,184.99,medium,low,9,name.com,,,13/08/2026 12:54
 6381f43f-95e4-41b3-b672-f55bfab32143,hipped.hiv,available,184.99,184.99,medium,low,6,name.com,,,21/08/2026 09:41
 dede1861-5003-45a1-aa56-74c74b24b3b1,flogging.hiv,available,184.99,184.99,medium,low,8,name.com,,,22/08/2026 20:16
 0ec7f7d1-b775-4172-82cc-86ce30289a90,sills.hiv,available,195.99,195.99,high,low,5,namesilo,,,23/09/2026 06:04
@@ -659,7 +674,7 @@ a05dd3be-f002-4f6f-9b28-92ebda961cb4,recyclable.hiv,available,195.99,195.99,high
 dee6b2b7-3634-4a7a-a679-f9e71ff6d621,bright.hiv,available,195.99,195.99,high,medium,6,namesilo,,,23/09/2026 09:27
 d8c9ca40-91ff-4da7-a4fc-10650a945d17,eatable.hiv,available,184.99,184.99,medium,low,7,name.com,,,12/08/2026 18:47
 a23c22b4-f500-40e8-a8d2-41f5e37f9948,occurred.hiv,available,195.99,195.99,medium,low,8,namesilo,,,18/09/2026 13:50
-be4ba31f-4d8f-4e32-b3f7-451c491a5d53,limp.hiv,available,184.99,184.99,high,low,4,name.com,,,23/08/2026 12:39
+be4ba31f-4d8f-4e32-b3f7-451c491a5d53,limp.hiv,available,184.99,184.99,medium,low,4,name.com,,,23/08/2026 12:39
 67f18d77-cf5d-4465-8f00-37417aa267f5,uncultured.hiv,available,195.99,195.99,medium,low,10,namesilo,,,12/09/2026 06:38
 7db07e77-4232-41ed-bf9b-3a3d3afb5dbb,agelong.hiv,available,184.99,184.99,medium,low,7,name.com,,,
 d78feedb-e909-4003-901d-6790b9859824,provinces.hiv,available,195.99,195.99,medium,low,9,namesilo,,,18/09/2026 15:35
@@ -671,6 +686,7 @@ b88ccd7d-4fea-4c29-b9db-433c9ec0b24a,various.hiv,available,184.99,,high,low,7,na
 67480f0e-7493-4586-9eb4-cfd868e21b49,clawed.hiv,available,184.99,184.99,medium,low,6,name.com,,,12/08/2026 10:02
 4384990b-04cc-4679-9ed3-0164dd1a7e08,sternal.hiv,available,,,medium,low,7,,,,10/09/2026 20:18
 36d0e635-2993-4225-bb36-8ac2e449b7a6,thereof.hiv,available,195.99,195.99,medium,low,7,namesilo,,,16/09/2026 08:41
+2479ee22-7654-4568-924e-c6effb557823,pillow.hiv,available,195.99,195.99,high,low,6,namesilo,,,28/09/2026 02:55
 a98f6d26-dfc4-42be-a65e-ba6f86732984,angstrom.hiv,available,195.99,195.99,medium,low,8,namesilo,,,16/09/2026 12:44
 6a2f3b5a-0c93-4180-88e2-4622269248bb,overhanded.hiv,available,,,medium,low,10,,,,04/09/2026 20:12
 bb34a317-890b-426f-9cf7-242e80c4b477,untalented.hiv,available,195.99,195.99,medium,low,10,namesilo,,,11/09/2026 07:26
@@ -687,7 +703,7 @@ c26441a6-7adc-4ab5-a3b7-4048ccdc688e,explicitly.hiv,available,195.99,195.99,medi
 bb26c1aa-52fc-4ed9-bc4f-3d09a7f40eeb,unlaced.hiv,available,195.99,195.99,medium,low,7,namesilo,,,12/09/2026 14:37
 6a4344df-1c05-4209-be05-9789410da428,chaff.hiv,available,184.99,184.99,medium,low,5,name.com,,,22/08/2026 13:50
 3ea09839-988a-4130-b544-8a878fb8895e,swords.hiv,available,184.99,,medium,low,6,name.com,,,
-714f2ca3-df75-4541-ac66-f57d25df9f28,stoutness.hiv,available,195.99,195.99,high,low,9,namesilo,,,04/09/2026 22:03
+714f2ca3-df75-4541-ac66-f57d25df9f28,stoutness.hiv,available,195.99,195.99,medium,low,9,namesilo,,,04/09/2026 22:03
 353f6a03-d01a-4e1a-bae2-81794f5b05af,dope.hiv,available,184.99,184.99,high,low,4,name.com,,,24/08/2026 10:28
 13280c17-1551-49a6-80ce-db6805a88191,concrete.hiv,available,184.99,,high,low,8,name.com,,,23/09/2026 19:16
 2e53183c-9511-46a0-8ebe-816aa1040714,foetid.hiv,available,184.99,184.99,medium,low,6,name.com,,,18/08/2026 02:26
@@ -696,7 +712,7 @@ bb26c1aa-52fc-4ed9-bc4f-3d09a7f40eeb,unlaced.hiv,available,195.99,195.99,medium,
 d00ce87a-6273-4b8c-b1b6-604ff40ac2b5,astrolabe.hiv,available,195.99,195.99,high,low,9,namesilo,,,20/09/2026 17:43
 c309ee62-34ce-497c-8519-89a94d8eed0c,southward.hiv,available,195.99,195.99,high,medium,9,namesilo,,,10/09/2026 14:49
 e28a9cc6-fce6-441b-9ec6-d6f1c3b73a68,warranty.hiv,available,184.99,,high,low,8,name.com,,,
-c0a83a5c-2cf0-4c56-b514-62621ba1bad8,fried.hiv,available,184.99,184.99,high,low,5,name.com,,,13/08/2026 22:34
+c0a83a5c-2cf0-4c56-b514-62621ba1bad8,fried.hiv,available,184.99,184.99,medium,low,5,name.com,,,13/08/2026 22:34
 6c17652d-faa5-4591-bdfd-a1a54dd64d9b,unscripted.hiv,available,184.99,184.99,medium,low,10,name.com,,,12/09/2026 19:05
 0247c474-552d-4536-a86d-05ba8ce2eae5,hayden.hiv,available,195.99,195.99,high,low,6,namesilo,,,25/09/2026 15:33
 33c33868-9159-4b96-9943-a0c8586756fd,directing.hiv,available,195.99,195.99,high,low,9,namesilo,,,24/09/2026 10:51
@@ -707,7 +723,7 @@ f6e2a96f-b3d0-44a6-92eb-5409f33a7972,downcast.hiv,available,184.99,184.99,medium
 10619ac9-48d2-44a5-8aab-2904d5330d86,foodie.hiv,available,184.99,184.99,high,low,6,name.com,,,17/08/2026 10:47
 a4c2261f-3e9e-4446-90b6-15020adc4cd9,als.hiv,available,195.99,195.99,high,low,3,namesilo,,,18/09/2026 14:14
 e5a8654a-d1f0-41ab-8f4f-c26b762927a8,mechanic.hiv,available,195.99,195.99,high,low,8,namesilo,,,25/09/2026 18:40
-3e572808-0f53-45d8-ba16-8b7df0492ca7,intragroup.hiv,available,184.99,184.99,high,low,10,name.com,,,22/08/2026 08:41
+3e572808-0f53-45d8-ba16-8b7df0492ca7,intragroup.hiv,available,184.99,184.99,medium,low,10,name.com,,,22/08/2026 08:41
 83fc2ab0-4f5e-4cd4-b484-736b4a2b0be1,promise.hiv,available,184.99,,high,low,7,name.com,,,
 94ad9833-7a2a-4cb2-9cc4-5fa7d7ef11f7,genius.hiv,available,195.99,195.99,high,medium,6,namesilo,,,21/09/2026 17:41
 33f241fe-14a7-47d6-b19d-53ecb7d2e25f,bushwhack.hiv,available,195.99,195.99,medium,low,9,namesilo,,,18/09/2026 17:32
@@ -717,18 +733,19 @@ d3af9b4a-a37c-41ea-baa7-7fd2a9d3736c,hughes.hiv,available,195.99,195.99,high,low
 a6d9e2d3-ed03-4625-8dcd-3aa737a18ff1,coffeepots.hiv,available,195.99,195.99,medium,low,10,namesilo,,,21/09/2026 00:56
 0a7f6ea9-206b-4105-a78e-86204f44cfdb,six.hiv,available,195.99,195.99,high,low,3,namesilo,,,21/09/2026 13:17
 754ddbda-11db-4b6c-bb98-3116b9050596,venter.hiv,available,195.99,195.99,medium,low,6,namesilo,,,16/09/2026 14:46
+7a851b9f-3051-4e43-8594-d94287ce4c3b,sharks.hiv,available,195.99,195.99,medium,low,6,namesilo,,,27/09/2026 23:50
 6ae8dcfe-5908-494a-ad4a-67615c9784f7,remained.hiv,available,195.99,195.99,medium,low,8,namesilo,,,18/09/2026 11:23
-ee669091-2545-4910-ad67-49f783c69459,jugoslav.hiv,available,195.99,195.99,high,low,8,namesilo,,,13/09/2026 14:52
+ee669091-2545-4910-ad67-49f783c69459,jugoslav.hiv,available,195.99,195.99,medium,low,8,namesilo,,,13/09/2026 14:52
 4d04d581-4905-40ee-92a3-3d628e6a2a34,pup.hiv,available,184.99,,high,low,3,name.com,,,
 76f12a39-09da-431f-82a5-1f82895a603c,antenatal.hiv,available,195.99,195.99,high,low,9,namesilo,,,22/09/2026 05:59
 08a92956-e972-4a77-8cca-364ac270c3be,arriviste.hiv,available,195.99,195.99,medium,low,9,namesilo,,,03/09/2026 22:17
 2aee5660-ecc1-40e9-9149-1a4c7406c5c3,bailor.hiv,available,,,medium,low,6,,,,21/09/2026 19:14
-2472b676-5e18-406f-8dc1-cd28324502ba,xviii.hiv,available,195.99,195.99,high,low,5,namesilo,,,21/09/2026 12:00
+2472b676-5e18-406f-8dc1-cd28324502ba,xviii.hiv,available,195.99,195.99,medium,low,5,namesilo,,,21/09/2026 12:00
 83eb1139-e653-44e5-8a23-38c46f35028a,toddler.hiv,available,184.99,,high,low,7,name.com,,,
 7d9fe038-df10-458e-bb71-110824f3ee2a,neglect.hiv,available,184.99,,high,low,7,name.com,,,
 2aee9808-143a-492f-af4c-59cadd1620ef,illusive.hiv,available,184.99,184.99,medium,low,8,name.com,,,21/08/2026 20:13
 aec32779-9ddf-41b5-837a-5db03275ce51,cosmogenic.hiv,available,184.99,184.99,medium,low,10,name.com,,,13/08/2026 03:00
-c940ed97-5abb-4766-8282-00eca6bd823d,avignon.hiv,available,195.99,195.99,high,low,7,namesilo,,,21/09/2026 09:35
+c940ed97-5abb-4766-8282-00eca6bd823d,avignon.hiv,available,195.99,195.99,medium,low,7,namesilo,,,21/09/2026 09:35
 46a15853-1149-4952-999d-e1e1478bdbb2,azure.hiv,available,184.99,184.99,high,high,5,name.com,,,08/08/2026 03:08
 09337d9e-4985-496e-a167-fcf2b4068a2a,dodging.hiv,available,195.99,195.99,medium,low,7,namesilo,,,21/09/2026 09:51
 2c42bc82-7925-4a07-a396-14a451156ddd,pycnotic.hiv,available,184.99,184.99,high,medium,8,name.com,,,09/09/2026 06:51
@@ -744,16 +761,16 @@ a641a254-9934-4199-9711-5117af02aab8,refused.hiv,available,195.99,195.99,medium,
 b748ff9a-b944-4aec-a758-05a194a1f00f,failures.hiv,available,184.99,,low,low,8,name.com,,,20/09/2026 17:55
 bed0f0f1-f28f-4d65-abd6-a3abcf7f0971,catch.hiv,available,184.99,,high,low,5,name.com,,,
 5f0ce82a-62b6-4faa-9394-ae7f248a6e4f,wasted.hiv,available,195.99,195.99,high,low,6,namesilo,,,22/09/2026 11:10
-553d6530-8a7f-428f-8dd7-7eb40d3ddca8,starving.hiv,available,,,high,low,8,,,,10/09/2026 19:04
+553d6530-8a7f-428f-8dd7-7eb40d3ddca8,starving.hiv,available,,,medium,low,8,,,,10/09/2026 19:04
 580b4f53-d4eb-4a03-b05c-a0540f34c4d4,localized.hiv,available,184.99,184.99,high,low,9,name.com,,,24/08/2026 08:45
 445ac22a-9861-4230-b4f2-8fb91b61f3dd,startup.hiv,available,195.99,195.99,high,medium,7,namesilo,,,23/09/2026 07:16
 9cba2701-99c5-48ff-a374-383bf17db25e,recumbent.hiv,available,184.99,184.99,medium,low,9,name.com,,,
 4d4b6a94-77b6-43df-abd0-248d4c1da1ca,gall.hiv,available,195.99,195.99,medium,low,4,namesilo,,,23/09/2026 15:42
 fc3212ff-7f57-4089-8a49-92a0735bae07,speechless.hiv,available,195.99,195.99,medium,low,10,namesilo,,,19/09/2026 16:52
-8019e940-0582-4d64-ae1d-29020fa9b9ef,bony.hiv,available,184.99,184.99,high,low,4,name.com,,,10/08/2026 18:42
+8019e940-0582-4d64-ae1d-29020fa9b9ef,bony.hiv,available,184.99,184.99,medium,low,4,name.com,,,10/08/2026 18:42
 6ee382f8-ea0c-40a3-bdf4-731b1514de95,retentive.hiv,available,195.99,195.99,high,low,9,namesilo,,,09/09/2026 11:47
-1184a7ab-2c06-43e4-a4e7-d0cb8e956110,burn.hiv,available,184.99,,high,low,4,name.com,,,
-9766912d-007b-42b1-b474-7ddfc7bed799,wegener.hiv,available,195.99,195.99,high,low,7,namesilo,,,18/09/2026 06:39
+1184a7ab-2c06-43e4-a4e7-d0cb8e956110,burn.hiv,available,195.99,195.99,high,low,4,namesilo,,,28/09/2026 02:13
+9766912d-007b-42b1-b474-7ddfc7bed799,wegener.hiv,available,195.99,195.99,medium,low,7,namesilo,,,18/09/2026 06:39
 537ad510-3491-43fb-8f74-ed363331c3ce,beers.hiv,available,195.99,195.99,medium,low,5,namesilo,,,27/09/2026 10:55
 e3fa2bda-e1d1-429e-8f42-06faac1baa6e,surmise.hiv,available,195.99,195.99,high,low,7,namesilo,,,11/09/2026 04:51
 2e02c127-0212-434d-972b-e0367c18bb11,ovine.hiv,available,184.99,184.99,medium,low,5,name.com,,,04/09/2026 22:07
@@ -761,7 +778,7 @@ e3786fb2-d252-4e78-a4ac-c5bafe014e5d,tournament.hiv,available,195.99,195.99,high
 a26b836b-3425-4487-a217-f530a6bd3a7a,belatedly.hiv,available,184.99,184.99,medium,low,9,name.com,,,22/08/2026 20:25
 873ced44-9fb8-4568-9d37-f054dc26345b,hitch.hiv,available,184.99,184.99,medium,low,5,name.com,,,20/08/2026 22:55
 dcf39bf8-05f7-4479-9dd8-1948fbfa4be7,started.hiv,available,195.99,195.99,medium,low,7,namesilo,,,18/09/2026 11:27
-406e5bdf-6957-4ee2-bdad-dffed8c7c60b,among.hiv,available,184.99,,high,low,5,name.com,,,
+406e5bdf-6957-4ee2-bdad-dffed8c7c60b,among.hiv,available,184.99,,medium,low,5,name.com,,,
 16d6581c-f16c-4b96-98a4-1b6b75e461d3,british.hiv,available,195.99,195.99,high,low,7,namesilo,,,23/09/2026 09:38
 0944e484-424c-469c-9065-e9fc4941661d,knockdown.hiv,available,184.99,184.99,medium,low,9,name.com,,,22/08/2026 16:34
 047d6721-1897-4a8c-99e4-482b914cceb3,grindle.hiv,available,,,medium,low,7,,,,18/09/2026 21:21
@@ -775,7 +792,7 @@ e82dc6c2-39bd-40b7-b8cf-5aaf8d2ab3f6,lurk.hiv,available,195.99,195.99,high,low,4
 7f43aaa1-17e4-4f16-93e1-5f5168550f57,body.hiv,available,195.99,195.99,high,low,4,namesilo,,,24/09/2026 06:32
 02a0b925-06bb-4cbe-82b3-a8db70062b64,crease.hiv,available,184.99,184.99,high,low,6,name.com,,,13/08/2026 07:14
 f5b3f38a-f372-4281-815a-c55a668525fc,alternate.hiv,available,195.99,195.99,high,low,9,namesilo,,,22/09/2026 02:29
-6282acf8-d382-41cd-83bb-118401a85573,farseeing.hiv,available,184.99,184.99,high,low,9,name.com,,,14/08/2026 22:22
+6282acf8-d382-41cd-83bb-118401a85573,farseeing.hiv,available,184.99,184.99,medium,low,9,name.com,,,14/08/2026 22:22
 8c79eeb9-0e72-459d-9869-905e4fc5ee60,father.hiv,available,184.99,,high,low,6,name.com,,,
 3a473dea-a57f-4b04-b4a8-54b54c572b8d,unlovely.hiv,available,195.99,195.99,medium,low,8,namesilo,,,12/09/2026 15:12
 17fbcb48-1adc-4171-8682-1a4e6a33a11b,connectivity.hiv,available,195.99,195.99,high,low,12,namesilo,,,24/09/2026 02:41
@@ -788,7 +805,7 @@ f5b3f38a-f372-4281-815a-c55a668525fc,alternate.hiv,available,195.99,195.99,high,
 8fdb8ae4-a1e7-4f10-9236-d088dfb2165b,audit.hiv,available,195.99,195.99,high,low,5,namesilo,,,21/09/2026 03:05
 3fe2e3ad-2fca-4c8e-a284-66ea6c0e56b7,corbett.hiv,available,195.99,195.99,high,low,7,namesilo,,,27/09/2026 03:35
 2d6b451a-37e2-477f-88e9-2e32a07fc383,spillover.hiv,available,195.99,195.99,medium,low,10,namesilo,,,16/09/2026 17:36
-ff64b151-b64a-4b48-b3a3-f1d668d13cf2,uniformed.hiv,available,195.99,195.99,high,low,9,namesilo,,,12/09/2026 12:57
+ff64b151-b64a-4b48-b3a3-f1d668d13cf2,uniformed.hiv,available,195.99,195.99,medium,low,9,namesilo,,,12/09/2026 12:57
 b0bd45db-3395-4dfc-85b4-25fa5dd6c8b2,imminent.hiv,available,184.99,184.99,high,low,8,name.com,,,21/08/2026 20:55
 58ace5a2-ff10-4ddd-8a1c-557fb5419d41,dylan.hiv,available,195.99,195.99,high,low,5,namesilo,,,25/09/2026 00:22
 5e81ab0d-6dff-4661-a598-ccc20863d930,introduction.hiv,available,184.99,,high,low,12,name.com,,,
@@ -798,6 +815,7 @@ c4575562-9140-4100-9db8-325fd419e2e8,beagle.hiv,available,,,high,low,6,,,,22/09/
 4665c9d7-7588-4d4b-b2e1-e377967655ee,outfitted.hiv,available,,,high,low,9,,,,04/09/2026 19:24
 948936d3-a025-4c04-a2c6-08116817f6be,growth.hiv,available,195.99,195.99,high,medium,6,namesilo,,,19/09/2026 11:42
 d35c315c-871c-4769-8768-58e42ecafd2b,write.hiv,available,184.99,,high,low,5,name.com,,,
+b69a0919-9347-42df-b303-21bfbd185200,hurts.hiv,available,195.99,195.99,medium,low,5,namesilo,,,27/09/2026 23:53
 44bd58b3-dfe8-4a13-955c-9dc9834f0f8c,arcuate.hiv,available,184.99,184.99,medium,low,7,name.com,,,06/08/2026 14:49
 d49cef07-32e7-4791-8251-2d665b0e790d,sanctuary.hiv,available,,,high,high,9,,,,20/09/2026 18:34
 7a76202c-3bae-4b61-8437-f6ebdf417330,splenic.hiv,available,184.99,184.99,medium,low,7,name.com,,,23/08/2026 01:27
@@ -815,7 +833,7 @@ dca4b894-f173-4f5c-bd0b-42f6cca24c48,soak.hiv,available,195.99,195.99,high,low,4
 a5b4e01e-d5ff-4bd4-a731-7650b9e1ac04,lukewarm.hiv,available,184.99,184.99,medium,low,8,name.com,,,20/08/2026 22:43
 9b27b1f5-5f41-4e59-a340-43596f0d39fa,renewal.hiv,available,184.99,,high,low,7,name.com,,,
 c8a6c58e-a1e3-4437-8756-97156e57535c,aphesis.hiv,available,195.99,195.99,medium,low,7,namesilo,,,19/09/2026 16:55
-cd51f477-7edc-4ed3-a9d4-d2e98489361e,sighted.hiv,available,184.99,,high,low,7,name.com,,,
+cd51f477-7edc-4ed3-a9d4-d2e98489361e,sighted.hiv,available,184.86,184.86,high,low,7,porkbun,,,27/09/2026 21:56
 3bba28f6-4584-4962-b874-c15232ac72d9,compatibly.hiv,available,195.99,195.99,medium,low,10,namesilo,,,14/09/2026 07:43
 55d1f1c5-9f34-45a6-b369-c0da1890c320,theorize.hiv,available,195.99,195.99,high,low,8,namesilo,,,24/09/2026 17:19
 f63beba3-968d-4739-8dc7-9c2a8d224bc2,lego.hiv,available,184.99,,high,high,4,name.com,,,
@@ -836,7 +854,7 @@ db20063d-dbf5-4c48-bebf-90849f3adea9,stilly.hiv,available,184.99,184.99,low,low,
 b99b3535-5adc-4146-9799-bc1fb7f30144,axone.hiv,available,195.99,195.99,high,low,5,namesilo,,,21/09/2026 10:31
 0f53ea09-42f6-4314-9b75-a57f49ac2dbc,disk.hiv,available,184.99,,high,low,4,name.com,,,
 9e7d0bd3-efd7-4445-9a2d-8d123d740bd6,shelflike.hiv,available,195.99,195.99,high,medium,9,namesilo,,,10/09/2026 06:22
-91bf3e04-267a-4644-9d8a-27259b3e9921,siberian.hiv,available,184.99,,high,low,8,name.com,,,
+91bf3e04-267a-4644-9d8a-27259b3e9921,siberian.hiv,available,195.99,195.99,high,low,8,namesilo,,,27/09/2026 21:41
 49f98a83-363c-4522-90f3-0260a197eb3f,henrietta.hiv,available,195.99,195.99,high,low,9,namesilo,,,25/09/2026 17:42
 cb46214f-3a96-4d20-b936-6b2d8405d43f,matthew.hiv,available,195.99,195.99,high,low,7,namesilo,,,25/09/2026 06:38
 690bc1c0-be12-4f99-b72a-84073ac40b24,overeat.hiv,available,195.99,195.99,medium,low,7,namesilo,,,23/09/2026 17:26
@@ -848,7 +866,7 @@ d5f6415b-3709-4ec6-849a-37903fd07100,unseasoned.hiv,available,184.99,184.99,medi
 282cf450-31dd-465c-a07b-bf69a683933c,revisions.hiv,available,195.99,195.99,medium,low,9,namesilo,,,20/09/2026 05:28
 7ffacd38-f423-42ea-8a68-04fad4f46055,anesthesia.hiv,available,184.99,,high,low,10,name.com,,,
 cfd70404-8665-4be8-bf40-ca02dc167737,helmet.hiv,available,195.99,195.99,high,low,6,namesilo,,,25/09/2026 23:05
-e2d3b920-9416-4aaa-97f8-51e995c047cd,fiberoptic.hiv,available,184.99,184.99,high,low,10,name.com,,,18/08/2026 03:12
+e2d3b920-9416-4aaa-97f8-51e995c047cd,fiberoptic.hiv,available,184.99,184.99,medium,low,10,name.com,,,18/08/2026 03:12
 c55bb104-bc0b-4745-b3e1-2e3cbc961521,classify.hiv,available,195.99,195.99,high,low,8,namesilo,,,24/09/2026 15:20
 2dfd3528-44e9-41c4-9a95-f1beaeb27a40,broached.hiv,available,184.99,184.99,medium,low,8,name.com,,,
 5413c914-a3c7-4922-a195-0e8aae985f44,kitchen.hiv,available,184.99,,high,low,7,name.com,,,
@@ -859,7 +877,7 @@ c55bb104-bc0b-4745-b3e1-2e3cbc961521,classify.hiv,available,195.99,195.99,high,l
 ce5b95ac-fd9a-451b-af66-4aafbcdde5ab,foodless.hiv,available,184.99,184.99,medium,low,8,name.com,,,18/08/2026 10:26
 27b7a4a6-5d1a-4178-a0db-acbdd7abba46,manned.hiv,available,184.99,184.99,high,low,6,name.com,,,24/08/2026 15:16
 ba33efab-e250-4fe8-ba09-355d81df0f9c,unwitting.hiv,available,195.99,195.99,medium,low,9,namesilo,,,12/09/2026 14:24
-d9f45c28-d13e-47bc-bb97-d40725f820d6,aken.hiv,available,195.99,195.99,high,low,4,namesilo,,,16/09/2026 13:08
+d9f45c28-d13e-47bc-bb97-d40725f820d6,aken.hiv,available,195.99,195.99,medium,low,4,namesilo,,,16/09/2026 13:08
 8e264f6e-fbe2-4b14-b25e-6b9e707913ee,dill.hiv,available,195.99,195.99,high,low,4,namesilo,,,19/09/2026 05:36
 a66bcdef-61f5-4bb4-8fcc-53caeafc7f24,jangling.hiv,available,184.99,184.99,medium,low,8,name.com,,,22/08/2026 12:19
 cec3a029-b9bf-4ad9-ab31-54b452f3b750,buttercups.hiv,available,184.99,184.99,medium,low,10,name.com,,,20/09/2026 19:49
@@ -887,7 +905,7 @@ aae7c131-d9ce-4f89-854b-4298a50fa599,miniskirt.hiv,available,184.99,184.99,high,
 f9e20c7f-6d49-49b3-96a9-9b1e951acc63,cantaloupe.hiv,available,184.99,184.99,high,low,10,name.com,,,24/09/2026 12:07
 f3b97fd3-4cfb-4a03-bc79-e2654acc12da,redial.hiv,available,195.99,195.99,high,low,6,namesilo,,,16/09/2026 12:47
 ad86b8fe-c030-453a-9580-8a3f23a68651,imposed.hiv,available,184.99,184.99,medium,low,7,name.com,,,21/08/2026 22:50
-d51d02e2-f10d-4182-8a49-858b23ddbc5f,pickings.hiv,available,195.99,195.99,high,low,8,namesilo,,,11/09/2026 07:21
+d51d02e2-f10d-4182-8a49-858b23ddbc5f,pickings.hiv,available,195.99,195.99,medium,low,8,namesilo,,,11/09/2026 07:21
 0893228f-0bc1-4602-83f1-c4ac830d0374,cinnamon.hiv,available,184.99,,high,low,8,name.com,,,
 a8ad40ba-66f3-4ce3-a8aa-94614beef201,little.hiv,available,195.99,195.99,high,low,6,namesilo,,,24/09/2026 17:48
 aa6379b0-bda4-49a4-bea9-10970fba5c4c,noble.hiv,available,184.99,184.99,high,low,5,name.com,,,08/08/2026 20:18
@@ -909,18 +927,20 @@ d9a3a5bf-1dbc-4dc7-9649-bdc333977e29,cynic.hiv,available,,,high,low,5,,,,24/09/2
 a000dc15-ef7f-4ef9-8867-03172b7a30a4,snaky.hiv,available,195.99,195.99,medium,low,5,namesilo,,,10/09/2026 04:47
 d3f4135f-c4f1-4814-8501-490372a9af0f,powell.hiv,available,195.99,195.99,high,low,6,namesilo,,,25/09/2026 04:09
 032776eb-db53-47ef-914f-d5ebd21a869c,neatly.hiv,available,195.99,195.99,high,low,6,namesilo,,,15/09/2026 16:16
-3c1592c5-8539-4642-8a41-ff65731432af,lingual.hiv,available,184.99,184.99,high,low,7,name.com,,,23/08/2026 15:07
+3c1592c5-8539-4642-8a41-ff65731432af,lingual.hiv,available,184.99,184.99,medium,low,7,name.com,,,23/08/2026 15:07
 c2c122c7-2017-4e2d-922f-5897ea49e9f3,plaguey.hiv,available,,,medium,low,7,,,,
 6914b285-f51a-4f88-afe7-c0befdbb047d,adelaide.hiv,available,195.99,195.99,high,low,8,namesilo,,,17/09/2026 07:13
 b96789f8-a2d7-47e6-9fb4-e2d8d644246a,referred.hiv,available,195.99,195.99,medium,low,8,namesilo,,,17/09/2026 06:11
 9c868886-1be4-4788-9d23-9694c482ae3c,pop.hiv,available,195.99,195.99,high,medium,3,namesilo,,,24/09/2026 11:55
-5f5322e4-2ca8-4a3d-9c01-41288866ad3a,seeing.hiv,available,184.99,,high,low,6,name.com,,,
+5f5322e4-2ca8-4a3d-9c01-41288866ad3a,seeing.hiv,available,195.99,195.99,high,low,6,namesilo,,,27/09/2026 19:35
 cac28621-8db6-4f49-bfa5-8c751eb34f05,semitropic.hiv,available,195.99,195.99,medium,low,10,namesilo,,,10/09/2026 03:36
 b3663713-c1e3-443e-a916-0431ef448479,petite.hiv,available,184.99,184.99,medium,low,6,name.com,,,08/08/2026 14:24
 59c9df13-53f9-443b-8cfc-f2492d7f3957,float.hiv,available,184.99,,high,low,5,name.com,,,
 86a813d3-5b1d-46c3-aeb3-6d2d3ca7b70c,wintertime.hiv,available,184.99,,high,low,11,name.com,,,
 adf1ef55-2991-4742-a39e-a2091d946103,adaptation.hiv,available,195.99,195.99,high,low,10,namesilo,,,17/09/2026 06:27
 d850294e-c201-41dd-8259-f48fe90abd49,purblind.hiv,available,184.99,184.99,medium,low,8,name.com,,,14/08/2026 07:58
+0adfbf26-96f6-4c98-8b5f-e10560a7fef2,hosting.hiv,available,195.99,195.99,high,medium,7,namesilo,,,28/09/2026 02:41
+25147a8b-3377-462f-8b7d-190bea10c9bc,crockett.hiv,available,195.99,195.99,medium,low,8,namesilo,,,28/09/2026 01:43
 72f9d271-90d6-4986-b2f4-085368ffffb9,cuddly.hiv,available,184.99,184.99,high,low,6,name.com,,,13/08/2026 10:11
 0465a2eb-ea75-44a9-83ee-30833cb129da,osmanli.hiv,available,195.99,195.99,medium,low,7,namesilo,,,04/09/2026 18:41
 a2849e9e-70f3-4b40-b9fc-b5bfdeedd874,seeming.hiv,available,184.99,,high,low,7,name.com,,,
@@ -928,7 +948,7 @@ ac4f12ed-32e7-4c8a-b679-216301bf1d8d,cupboard.hiv,available,195.99,195.99,high,l
 1cc9debe-b090-4731-86a4-2b7156c0e84f,acrobatic.hiv,available,184.99,184.99,high,low,9,name.com,,,
 2b7837ca-95fe-4a67-b2f6-0f195b12ffba,rich.hiv,available,195.99,195.99,high,low,4,namesilo,,,19/09/2026 18:40
 ff359568-712d-48ae-b406-d2124ed8ebd0,crimes.hiv,available,184.99,,high,low,6,name.com,,,
-c9ae838c-e0c6-43d8-87c9-1b52841ab318,amoy.hiv,available,195.99,195.99,high,low,4,namesilo,,,18/09/2026 23:05
+c9ae838c-e0c6-43d8-87c9-1b52841ab318,amoy.hiv,available,195.99,195.99,medium,low,4,namesilo,,,18/09/2026 23:05
 3b90db23-9231-434c-9675-43a8135097dd,beverage.hiv,available,195.99,195.99,high,low,8,namesilo,,,23/09/2026 19:28
 dd08c702-cb32-4034-a79e-dedc4de86e74,fixedly.hiv,available,195.99,195.99,medium,low,7,namesilo,,,14/09/2026 18:44
 45eb2009-456f-4e27-8a31-7fc7656f04b7,skimpy.hiv,available,195.99,195.99,high,low,6,namesilo,,,10/09/2026 09:36
@@ -945,6 +965,7 @@ a190f6d9-9ac9-4e6a-a7c7-cb10e156c979,astounded.hiv,available,195.99,195.99,high,
 7ecbc95a-f6a9-4364-bf20-4edcb9f0d816,limits.hiv,available,195.99,195.99,medium,low,6,namesilo,,,18/09/2026 15:06
 450dcaa1-b877-4c8a-95e1-24ffb942a085,bridge.hiv,available,184.99,,high,medium,6,name.com,,,
 1f97caf4-5683-4824-98b7-5e3d05890e07,braky.hiv,available,184.99,184.99,low,low,5,name.com,,,11/08/2026 01:57
+2711da75-6f20-470b-b53f-55d301afa4df,ithaca.hiv,available,184.9,184.9,high,low,6,spaceship,,,27/09/2026 14:23
 91126daf-83a5-414c-8bb0-db6d1dfabc59,mesmerised.hiv,available,184.99,184.99,medium,low,10,name.com,,,17/08/2026 22:52
 c1879fd1-1151-443f-941d-ad7609391910,genovese.hiv,available,184.99,184.99,high,low,8,name.com,,,18/08/2026 21:49
 a7b1dd4c-e0ec-45b0-a154-d8ede803f1c9,whiteboard.hiv,available,184.99,,high,low,10,name.com,,,
@@ -967,7 +988,7 @@ ca424506-6fe4-4796-8820-f979ed28525b,web.hiv,available,,,high,medium,3,,,,19/09/
 b5f7fcc8-c948-4be7-82a5-3625f42209a1,pictorial.hiv,available,184.99,184.99,high,low,9,name.com,,,23/08/2026 01:46
 15c17e0c-5dc2-45cc-a056-ee320b5e5542,prisoner.hiv,available,184.99,184.99,high,low,8,name.com,,,11/08/2026 18:26
 70ba00b5-650c-4027-a058-5d49207b3d4f,derived.hiv,available,184.99,184.99,medium,low,7,name.com,,,14/08/2026 03:07
-0b22f66a-1eda-48a0-b855-5dcdfbdce7f2,venerable.hiv,available,184.99,,high,low,9,name.com,,,
+0b22f66a-1eda-48a0-b855-5dcdfbdce7f2,venerable.hiv,available,195.99,195.99,high,low,9,namesilo,,,27/09/2026 14:05
 394fe885-2699-4f3c-b04f-2e9740ead405,reticently.hiv,available,195.99,195.99,medium,low,10,namesilo,,,15/09/2026 23:31
 eefab1f7-b47a-4275-8101-73703367b365,downtown.hiv,available,195.99,195.99,high,low,8,namesilo,,,24/09/2026 12:02
 528cf9a6-6748-4f0b-8fe2-da82c49546f1,claude.hiv,available,,,high,high,6,,,,25/09/2026 19:16
@@ -978,24 +999,3 @@ e46ce44a-fdf6-4061-ac54-000aa4b55003,lucid.hiv,available,184.99,184.99,high,medi
 7b4bdb53-986b-4eb2-a266-fe2d86985f5a,panipat.hiv,available,195.99,195.99,medium,low,7,namesilo,,,22/09/2026 15:36
 848780b9-f301-4bc1-874d-3ccd6952b615,nonpublic.hiv,available,,,medium,low,9,,,,03/09/2026 20:20
 726d67d3-65af-4a7e-a481-829153769f67,molded.hiv,available,184.99,184.99,medium,low,6,name.com,,,25/08/2026 03:46
-38cce4b6-e0d8-478e-be76-77d9ec2b67a3,cowboy.hiv,available,184.99,,high,low,6,name.com,,,
-0ec911ab-956f-4abc-b776-15e3bcde9bd1,orally.hiv,available,,,medium,low,6,,,,15/09/2026 18:11
-8bc06352-27db-48fa-8ed5-bee6028f17d8,zama.hiv,available,195.99,195.99,high,low,4,namesilo,,,22/09/2026 16:21
-08f6aa35-6c93-4282-944b-4dfe9c00b24c,hemal.hiv,available,184.99,184.99,medium,low,5,name.com,,,20/08/2026 21:41
-07439d42-db77-4070-b074-6818ecdc8d2a,creativity.hiv,available,,,high,low,10,,,,24/09/2026 19:19
-fba14991-b801-4e2a-9631-d19e20ac8e49,untraveled.hiv,available,195.99,195.99,medium,low,10,namesilo,,,12/09/2026 21:42
-7e9f09dc-69c9-4dbe-879a-593e6c0518d7,unitary.hiv,available,195.99,195.99,high,low,7,namesilo,,,12/09/2026 13:58
-9004c10e-d23c-44e2-86b9-a8dfc77fee98,youthful.hiv,available,195.99,195.99,high,low,8,namesilo,,,13/09/2026 04:18
-15e46108-b2fe-4ab1-b988-085fffeae32d,beatnik.hiv,available,195.99,195.99,high,low,7,namesilo,,,22/09/2026 21:43
-6afd23ed-6078-4cfb-b463-efb3e3132bc5,keller.hiv,available,195.99,195.99,high,low,6,namesilo,,,25/09/2026 07:11
-d6fb4606-4b31-4aae-9268-b6421e8582ec,runner.hiv,available,195.99,195.99,high,low,6,namesilo,,,21/09/2026 22:22
-7ce2d627-7402-4caa-86af-dc556e5d7a7a,aram.hiv,available,195.99,195.99,high,low,4,namesilo,,,19/09/2026 23:55
-34fd7404-78be-4a0e-a460-3d3301c0dc76,discount.hiv,available,,,high,low,8,,,,
-0bb07cd4-e073-4031-aa4d-c65c34055bcc,wastebasket.hiv,available,184.99,,high,low,11,name.com,,,
-8cf588b8-9536-47eb-aef0-d67c6c12d86f,chapter.hiv,available,184.99,184.99,high,low,7,name.com,,,24/09/2026 13:43
-93a2320a-5186-4700-8e4c-47f50a2ef946,angling.hiv,available,195.99,195.99,high,low,7,namesilo,,,19/09/2026 06:50
-20bebd75-7c91-4a2a-8085-71b5658dcc41,syncretic.hiv,available,195.99,195.99,medium,low,9,namesilo,,,11/09/2026 06:21
-c8dd099f-0241-420b-96e4-f7a44e06c9c0,computable.hiv,available,184.99,184.99,high,low,10,name.com,,,12/08/2026 19:42
-f1097c68-4895-47be-8e7e-e8305dca7e8a,temper.hiv,available,195.99,195.99,high,low,6,namesilo,,,27/09/2026 04:28
-4efb0359-0b90-4e86-a476-0789ba51cc95,sectional.hiv,available,184.99,184.99,high,low,9,name.com,,,10/09/2026 01:18
-6dbcbf16-38f1-44d0-8fbc-952a960ec4e2,billet.hiv,available,195.99,195.99,high,low,6,namesilo,,,23/09/2026 10:14
